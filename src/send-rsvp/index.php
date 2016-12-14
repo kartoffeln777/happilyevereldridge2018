@@ -6,9 +6,7 @@ if(strcasecmp($_SERVER['REQUEST_METHOD'], 'POST') == 0) {
     }
 
     $content = trim(file_get_contents("php://input"));           
-
     $decoded = json_decode($content, true);
-
     if(!is_array($decoded)) {
         die('error');
     }
