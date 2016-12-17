@@ -6,7 +6,8 @@ clean:
 	rm -rf bin/*
 
 build:
-	cp -R lib/ bin/
+	cp -R lib bin
+	cp -R img bin
 	cp -R src/* bin/
 
 deploy:
