@@ -18,27 +18,55 @@
     <div class="site-wrapper">
       <div class="site-wrapper-inner">
         <div class="cover-container">
-<!--
+
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Cover</h3>
               <nav class="nav nav-masthead">
-                <a class="nav-link active" href="#">Home</a>
-                <a class="nav-link" href="#">Features</a>
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="#OurStory">Our Story</a>
+                <a class="nav-link" href="#Details">Details</a>
+		<a class="nav-link" href="#RSVP">RSVP</a>
+
+                <li class="nav-masthead">
+                  <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Wedding<span class="caret"></span></a>
+                  <ul class="nav-masthead dropdown-menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+		</li>
               </nav>
             </div>
           </div>
--->
+
           <div class="inner cover">
-            <h1 class="cover-heading">Alison and Michael's Big Day</h1>
+            <h2 class="cover-heading">Alison and Michael's Big Day</h2>
 	    <p class="lead">We are looking forward to having you join us on our big day!</p>
 <!--	    
 	    <p class="lead">
               <a href="#" class="btn btn-lg btn-secondary">Learn more</a>
-            </p>
-          </div>
+	    </p>
 -->
+	  </div>
+
+	  <div>
+            <h3 id="OurStory">Our Story</h3>
+	    It all started 3000 Years Ago. It was the middle of the great gear wars on Geartopia, and Gear-head was still trying to figure out who he was in such a tragically beautiful gear world.
+	  </div>
+
+	  <div>
+	    <h2 id="Details">Details</h2>
+	    You can get to our wedding by driving in a car to the ceremony. Or, if you're farther than what is a convenient distance for terrestrial vehicles, you can use an alternative, such as an aeroplane or boat.
+	  </div>
+
+	  <div>
+            <h2 id="RSVP">RSVP</h2>
+            Get ready for a fucking miracle of technology in this section...
+          </div>
+	  
           <div class="mastfoot">
             <div class="inner">
               <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
@@ -49,7 +77,6 @@
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB" crossorigin="anonymous"></script>
     <script src="./bootstrap.min.js"></script>
   </body>
 </html>

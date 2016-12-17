@@ -48,10 +48,7 @@ function convertFormToJSON(form) {
 }
 $(function() {
     $("#myForm").submit(function() {
-        //var formData = convertFormToJSON($("#myForm"));
-        var testObj = {first_name:"michael",last_name:"jones"};
-	var formData = JSON.stringify(testObj);    
-        console.log(formData);
+        var formData = convertFormToJSON($("#myForm"));
 	$.ajax({
 	    url: 'https://alisonmichaelwedding.com/send-rsvp/',
             type : "POST",
