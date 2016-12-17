@@ -62,17 +62,17 @@
     </div>
 
     <div class="container">
-      <div id="OurStory" class="jumbotron">
+      <div id="OurStory" class="jumbotron section-header">
         <img class="header-image" src="./img/hands.jpg">
 	<h2>Our Story</h2>
       </div>
 
-      <div>
-        <h3 id="OurWedding">Our Wedding</h3>
+      <div id="OurWedding" class="inner">
+        <h3>Our Wedding</h3>
         It all started 3000 Years Ago. It was the middle of the great gear wars on Geartopia, and Gear-head was still trying to figure out who he was in such a tragically beautiful gear world.
       </div>
       
-      <div id="Details" class="jumbotron">
+      <div id="Details" class="jumbotron section-header">
         <img class="header-image" src="./img/boat-bright.jpg">
         <h2>Details</h2>
       </div>
@@ -82,7 +82,7 @@
         You can get to our wedding by driving in a car to the ceremony. Or, if you're farther than what is a convenient distance for terrestrial vehicles, you can use an alternative, such as an aeroplane or boat.
       </div>
 
-      <div id=RSVP class="jumbotron">
+      <div id=RSVP class="jumbotron section-header">
         <img class="header-image" src="./img/boat-dark.jpg">
         <h2>RSVP</h2>
       </div>

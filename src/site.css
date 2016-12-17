@@ -10,6 +10,15 @@ h2 {
   margin-bottom: 1rem;
   border-bottom: .25rem solid black;
 }
+.section-header {
+  padding: 15px !important;
+  border-radius:0px !important;
+  margin-bottom: 0px !important;
+}
+.inner {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 .header-image {
   /*width: auto;*/
   max-width: 100%;
