@@ -67,7 +67,7 @@
 	<h2>Our Story</h2>
       </div>
 
-      <div id="OurWedding" class="inner">
+      <div id="OurWedding" class="inner jumptarget">
         <h3>Our Wedding</h3>
         It all started 3000 Years Ago. It was the middle of the great gear wars on Geartopia, and Gear-head was still trying to figure out who he was in such a tragically beautiful gear world.
       </div>

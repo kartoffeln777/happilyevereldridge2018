@@ -6,6 +6,12 @@ h1,
 h2 {
   text-align: center;
 }
+.jumptarget::before {
+  content:"";
+  display:block;
+  height:51px; /* fixed header height*/
+  margin:-51px 0 0; /* negative fixed header height */
+}
 .masthead {
   margin-bottom: 1rem;
   border-bottom: .25rem solid black;
