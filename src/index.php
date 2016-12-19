@@ -57,7 +57,7 @@
 
     <div class="masthead">
       <img class="header-image" src="./img/after-proposal-harbor.jpg">
-      <h1>Alison & Michael's Big Day</h1>
+      <h1>Alison &amp; Michael's Big Day</h1>
       <p class="subtitle">We are looking forward to having you join us on our big day!</p>
     </div>
 
@@ -67,8 +67,27 @@
 	<h2>Our Story</h2>
       </div>
 
+      <div id="HowWeMet" class="inner jumptarget">
+        <h3>How We Met</h3>
+        In March of 2013, Alison noticed Michael across the room at a local board game gathering. He wore HotPink™ shorts, long black crew socks and sandals. At some point, Michael invited her to a round of King of Tokyo, to which Alison obliged; she trounced him. This did not deter Michael, who later asked Alison to be his teammate in a game of Ladies &amp; Gentlemen -  a game where the man treats his lady to nice things, and the lady shows the nice things off to her friends. Alison agreed, and was the Gentleman to his Lady. Together, they were the ultimate power couple and issued a resounding defeat to the rest of the table. A special relationship was born.
+      </div>
+
+<!--
+      <div id="WhenWeBegan" class="inner">
+        Michael later invited Alison and some other people to an afternoon at his apartment. While leaving, Alison and Michael 
+      </div>
+-->
+
+      <div>
+        <h3>Our Proposal</h3>
+        While holidaying in Italy, Alison &amp; Michael travelled to Venice. After a day at the Basilica, marvelling at the beautiful treasure Venetian pirates had plundered from Byzantium, Michael insisted on taking a side-trip to see a modern art gallery - The <a href="https://www.google.com/maps/@45.4307284,12.335311,17.88z">Punta della Dogana</a>. Unbeknownst to Alison, Michael intended to propose there, as it offered a panoramic view over the Grand Canal and St. Mark's Square. To sustain the ruse, Michael had purchased tickets for entrance to the gallery before their arrival, but unfortunately for him, things had taken a dark, sinister turn since he last visited the art world. The gallery was filled with sculpture and painting that made the innocents weep, the pious unsure, and the the faint of heart fumble. With their hearts and minds forever changed, Michael brought Alison out of the gallery to the waterfront. His nerves high (was it the proposal or the art which afflicted him with nerves? he cannot say), he bent his knee and fumbled in his jacket pocket for a small box. When he looked up at Alison, he could tell that his actions so far had thankfully cleared her mind of the images from earlier. Michael recited a poem he found in a collection of love poetry he had from college - <a href="https://en.wikipedia.org/wiki/Love's_Philosophy">Love's Philosophy by Percy Bysshe Shelley</a>. When he finished, Michael asked Alison to marry him, to which she agreed. 
+      </div>
+
       <div id="OurWedding" class="inner jumptarget">
-        <h3>Our Wedding</h3>
+	<h3>Our Wedding</h3>
+        <div class="small-image-frame">
+          <img class="header-image" src="./img/wynden.jpg">
+	</div>
         It all started 3000 Years Ago. It was the middle of the great gear wars on Geartopia, and Gear-head was still trying to figure out who he was in such a tragically beautiful gear world.
       </div>
       
