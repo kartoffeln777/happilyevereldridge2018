@@ -6,6 +6,9 @@ h1,
 h2 {
   text-align: center;
 }
+a {
+  target:"_blank";
+}
 .jumptarget::before {
   content:"";
   display:block;
@@ -29,6 +32,11 @@ h2 {
   /*width: auto;*/
   max-width: 100%;
   max-height: 100%;
+}
+.center-text-box {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 .small-image-frame {
   float: none;

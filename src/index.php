@@ -30,20 +30,16 @@
 	
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-center">
+            <li><a href="#OurStory">Our Story</a></li>
+            <li><a href="#OurWedding">Our Wedding</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Story<span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="#OurWedding">Our Wedding</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
+                <li><a href="#Accomodations">Accomodations</a></li>
+                <li><a href="#Transport">Transport</a></li>
+                <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
 	    </li>
-	    <li class=dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
-	      <ul class="dropdown-menu">
-                <li><a href="#">A temp</a></li>
-              </ul>
-            </li>
 	  </ul>
 <!--
 	  <ul class="nav navbar-nav navbar-right">
@@ -62,9 +58,9 @@
     </div>
 
     <div class="container">
-      <div id="OurStory" class="jumbotron section-header">
+      <div class="jumbotron section-header">
         <img class="header-image" src="./img/hands.jpg">
-	<h2>Our Story</h2>
+	<div id="OurStory" class="jumptarget"><h2>Our Story</h2></div>
       </div>
 
       <div id="HowWeMet" class="inner jumptarget">
@@ -80,15 +76,27 @@
 
       <div>
         <h3>Our Proposal</h3>
-        While holidaying in Italy, Alison &amp; Michael travelled to Venice. After a day at the Basilica, marvelling at the beautiful treasure Venetian pirates had plundered from Byzantium, Michael insisted on taking a side-trip to see a modern art gallery - The <a href="https://www.google.com/maps/@45.4307284,12.335311,17.88z">Punta della Dogana</a>. Unbeknownst to Alison, Michael intended to propose there, as it offered a panoramic view over the Grand Canal and St. Mark's Square. To sustain the ruse, Michael had purchased tickets for entrance to the gallery before their arrival, but unfortunately for him, things had taken a dark, sinister turn since he last visited the art world. The gallery was filled with sculpture and painting that made the innocents weep, the pious unsure, and the the faint of heart fumble. With their hearts and minds forever changed, Michael brought Alison out of the gallery to the waterfront. His nerves high (was it the proposal or the art which afflicted him with nerves? he cannot say), he bent his knee and fumbled in his jacket pocket for a small box. When he looked up at Alison, he could tell that his actions so far had thankfully cleared her mind of the images from earlier. Michael recited a poem he found in a collection of love poetry he had from college - <a href="https://en.wikipedia.org/wiki/Love's_Philosophy">Love's Philosophy by Percy Bysshe Shelley</a>. When he finished, Michael asked Alison to marry him, to which she agreed. 
+        While holidaying in Italy, Alison &amp; Michael travelled to Venice. After a day at the Basilica, marvelling at the beautiful treasure Venetian pirates had plundered from Byzantium, Michael insisted on taking a side-trip to see a modern art gallery - The <a href="https://www.google.com/maps/@45.4307284,12.335311,17.88z" target="_blank">Punta della Dogana</a>. Unbeknownst to Alison, Michael intended to propose there, as it offered a panoramic view over the Grand Canal and St. Mark's Square. To sustain the ruse, Michael had purchased tickets for entrance to the gallery before their arrival, but unfortunately for him, things had taken a dark, sinister turn since he last visited the art world. The gallery was filled with sculpture and painting that made the innocents weep, the pious unsure, and the the faint of heart fumble. With their hearts and minds forever changed, Michael brought Alison out of the gallery to the waterfront. His nerves high (was it the proposal or the art which afflicted him with nerves? he cannot say), he bent his knee and fumbled in his jacket pocket for a small box. When he looked up at Alison, he could tell that his actions so far had thankfully cleared her mind of the images from earlier. Michael recited a poem he found in a collection of love poetry he had from college - <a href="https://en.wikipedia.org/wiki/Love's_Philosophy" target="_blank">Love's Philosophy by Percy Bysshe Shelley</a>. When he finished, Michael asked Alison to marry him, to which she agreed.
       </div>
 
       <div id="OurWedding" class="inner jumptarget">
-	<h3>Our Wedding</h3>
         <div class="small-image-frame">
           <img class="header-image" src="./img/wynden.jpg">
 	</div>
-        It all started 3000 Years Ago. It was the middle of the great gear wars on Geartopia, and Gear-head was still trying to figure out who he was in such a tragically beautiful gear world.
+	<h3>Our Wedding</h3>
+	Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. There will be a ceremony in the late afternoon with cocktails to follow. Dinner will be served in the evening. They would be honored if you attended the occasion. There will not be a place for gifts, so please ship any gifts you may have ahead of time.
+        <br>
+	<div>
+          <h4>The Gist</h4>
+          <b>When:</b> February 19<sup>th</sup>, 2017 &emsp; <a href="" target="_blank"><span class="glyphicon glyphicon-calendar"></span> Add Event</a><br>
+	  <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
+          <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
+          <b>How:</b> With stylish dress (this is up to your interpretation)<br>
+	  <h4>The Deets</h4>
+          <b>Who:</b><br>
+          <div>
+          <div>
+        </div>
       </div>
       
       <div id="Details" class="jumbotron section-header">
@@ -96,19 +104,24 @@
         <h2>Details</h2>
       </div>
 
-      <div class="inner">
-        <h3>Sub-section</h3>
-        You can get to our wedding by driving in a car to the ceremony. Or, if you're farther than what is a convenient distance for terrestrial vehicles, you can use an alternative, such as an aeroplane or boat.
+      <div id="Accomodations" class="inner jumptarget">
+        <h3>Accomodations</h3>
+        We recommend you find a place to stay in Houston.
+      </div>
+
+      <div id="Transport" class="inner jumptarget">
+        <h3>Transportation</h3>
+        We recommend you find a means to get to Houston
+      </div>
+
+      <div id="ThingsToSee" class="inner jumptarget">
+        <h3>Things to See</h3>
+        There is a lot to do in Houston.
       </div>
 
       <div id=RSVP class="jumbotron section-header">
         <img class="header-image" src="./img/boat-dark.jpg">
         <h2>RSVP</h2>
-      </div>
-
-      <div class="inner">
-        <h3>Sub-section</h3>
-        Get ready for a fucking miracle of technology in this section...
       </div>
 
       <div class="mastfoot">
@@ -120,5 +133,12 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="./lib/bootstrap/js/bootstrap.min.js"></script>
+    <script>
+      //A script for animating the anchor links
+      $('a[href*=\\#]').on('click', function(event) { 
+	event.preventDefault();
+        $('html,body').animate({ scrollTop:$(this.hash).offset().top }, 400);
+      });
+    </script>
   </body>
 </html>
