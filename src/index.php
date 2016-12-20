@@ -12,7 +12,7 @@
     <title>Alison & Michael's Wedding</title>
 
     <link href="./lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="./lib/bootstrap/css/bootstrap-theme.css" rel="stylesheet">
+    <link href="./lib/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="./site.css" rel="stylesheet">
   </head>
 
