@@ -6,9 +6,6 @@ h1,
 h2 {
   text-align: center;
 }
-a {
-  target:"_blank";
-}
 .jumptarget::before {
   content:"";
   display:block;
@@ -33,11 +30,6 @@ a {
   max-width: 100%;
   max-height: 100%;
 }
-.center-text-box {
-  float: none;
-  margin-left: auto;
-  margin-right: auto;
-}
 .small-image-frame {
   float: none;
   margin-left: auto;
@@ -48,4 +40,10 @@ a {
 }
 .subtitle {
   text-align: center;
+}
+div.details {
+  width: 30em;
+  margin: 0 auto 1em auto;
+  /*border: 1px solid #000;*/
+  padding: 1em;
 }
