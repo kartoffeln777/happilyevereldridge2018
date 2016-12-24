@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+$config = parse_ini_file("config.ini");
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -83,12 +86,55 @@
         <br>
 	<div class="EX-details">
           <h4>The Gist</h4>
-          <b>When:</b> February 19<sup>th</sup>, 2017 &emsp; <a href="" target="_blank"><span class="glyphicon glyphicon-calendar"></span> Add Event</a><br>
+	  <b>When:</b> February 19<sup>th</sup>, 2017<br>
 	  <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
           <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
-          <b>How:</b> With stylish dress (this is up to your interpretation)<br>
-	  <h4>The Deets</h4>
-          <b>Who:</b><br>
+	  <b>How:</b> With stylish dress (this is up to your interpretation)
+          <br>
+	  <br>
+          <div title="Add to Calendar" class="addeventatc">
+            Add to Calendar
+            <span class="start">02/19/2017 05:00 PM</span>
+            <span class="end">02/19/2017 11:00 PM</span>
+            <span class="timezone">America/Chicago</span>
+            <span class="title">Alison &amp; Michael's Wedding Day</span>
+            <span class="description">The big day for your favorite people!</span>
+            <span class="location">1025 S Post Oak Ln, Houston, TX 77056</span>
+            <span class="organizer">Michael Jones</span>
+            <span class="organizer_email">rsvp@alisonmichaelwedding.com</span>
+            <span class="all_day_event">false</span>
+            <span class="date_format">MM/DD/YYYY</span>
+	    <span class="client"><?php echo $config['addeventclient'] ?></span>
+	  </div>
+          <br>
+	  <br>
+          <h4>The Deets</h4>
+	  <b>Who:</b>
+          <br>
+	  <div class="row">
+            <div class="col-sm-8"><b>The Girls</b></div>
+            <div class="col-sm-8"><b>The Boys</b></div>
+	  </div>
+	  <div class="row">
+	    <div class="col-sm-8 media">
+              <div class="media-left">
+                <img class="media-object" src="./img/jenny.jpg" width=64>
+	      </div>
+	      <div class="media-body">
+		<h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
+                Jenny has known Alison since Alison first came to Houston.
+	      </div>
+	    </div>
+	    <div class="col-sm-8 media">
+              <div class="media-left">
+                <img class="media-object" src="./img/eric_e.jpg" width=64>
+	      </div>
+	      <div class="media-body">
+		<h5 class="media-heading">Eric Eldridge - Best Man</h5>
+                Eric and Michael were classmates from Middle School through College.
+	      </div>
+	    </div>
+	  </div>
         </div>
       </div>
 
@@ -177,6 +223,7 @@
     </div> <!-- /container -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="./lib/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 <!--
     <script src="./lib/js/multi-step-modal.js></script>
 -->
