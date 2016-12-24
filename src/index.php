@@ -40,6 +40,7 @@
                 <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
 	    </li>
+            <li><a href="#RSVP">RSVP</a></li>
 	  </ul>
 <!--
 	  <ul class="nav navbar-nav navbar-right">
@@ -98,30 +99,36 @@
 
       <div id="Accomodations" class="inner jumptarget">
         <h3>Accomodations</h3>
-        We recommend you find a place to stay in Houston.
+        Coming soon.
       </div>
 
       <div id="Transport" class="inner jumptarget">
         <h3>Transportation</h3>
-        We recommend you find a means to get to Houston
+        Coming soon.
       </div>
 
       <div id="ThingsToSee" class="inner jumptarget">
         <h3>Things to See</h3>
-        There is a lot to do in Houston.
+        Coming soon.
       </div>
 
-      <div id=RSVP class="jumbotron section-header">
+      <div class="jumbotron section-header">
         <img class="header-image" src="./img/boat-dark.jpg">
-        <h2>RSVP</h2>
+        <h2 id="RSVP" class="jumptarget">RSVP</h2>
       </div>
+
+      <div class="inner">
+	Please rsvp by sending us a <a href="mailto:rsvp@alisonmichaelwedding.com">message</a>.<br>
+        Please be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
+      <div>
       <!-- Button trigger modal -->
+<!--
       <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#rsvpModal">
         Launch demo modal
       </button>
-
+-->
       <!-- Modal -->
-
+<!--
       <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-labelledby="rsvpModalLabel">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -139,7 +146,7 @@
           </div>
         </div>
       </div>
-
+-->
 <!--
       <div class="modal multi-step" id="rsvpModal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">

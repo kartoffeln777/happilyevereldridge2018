@@ -16,6 +16,10 @@ h2 {
   margin-bottom: 1rem;
   border-bottom: .25rem solid black;
 }
+.mastfoot {
+  margin-top: 1rem;
+  border-top: .25rem solid black;
+}
 .section-header {
   padding: 15px !important;
   border-radius:0px !important;
