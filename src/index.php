@@ -82,14 +82,14 @@ $config = parse_ini_file("config.ini");
           <img class="header-image" src="./img/wynden.jpg">
 	</div>
 	<h3>Our Wedding</h3>
-	Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. There will be a ceremony in the late afternoon with cocktails to follow. Dinner will be served in the evening. They would be honored if you attended the occasion. There will not be a place for gifts, so please ship any gifts you may have ahead of time.
+	Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
         <br>
 	<div class="EX-details">
           <h4>The Gist</h4>
 	  <b>When:</b> February 19<sup>th</sup>, 2017<br>
 	  <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
           <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
-	  <b>How:</b> With stylish dress (this is up to your interpretation)
+	  <b>How:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Dressy Casual</a>
           <br>
 	  <br>
           <div title="Add to Calendar" class="addeventatc">
