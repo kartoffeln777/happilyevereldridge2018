@@ -16,6 +16,11 @@ $config = parse_ini_file("config.ini");
 
     <link href="./lib/css/bootstrap.min.css" rel="stylesheet">
     <link href="./lib/css/bootstrap-theme.min.css" rel="stylesheet">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="./lib/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+
     <link href="./site.css" rel="stylesheet">
   </head>
 
@@ -52,7 +57,7 @@ $config = parse_ini_file("config.ini");
 	  </ul>
 -->
 	</div><!--/.nav-collapse -->
-      </div>
+      </div><!--/.containter -->
     </nav>
 
     <div class="masthead">
@@ -84,14 +89,14 @@ $config = parse_ini_file("config.ini");
 	<h3>Our Wedding</h3>
 	Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
         <br>
-	<div class="EX-details">
+        <div class="EX-details">
           <h4>The Gist</h4>
-	  <b>When:</b> February 19<sup>th</sup>, 2017<br>
-	  <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
+          <b>When:</b> February 19<sup>th</sup>, 2017<br>
+          <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
           <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
-	  <b>How:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Dressy Casual</a>
+          <b>How:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Dressy Casual</a>
           <br>
-	  <br>
+          <br>
           <div title="Add to Calendar" class="addeventatc">
             Add to Calendar
             <span class="start">02/19/2017 05:00 PM</span>
@@ -107,34 +112,39 @@ $config = parse_ini_file("config.ini");
 	    <span class="client"><?php echo $config['addeventclient'] ?></span>
 	  </div>
           <br>
-	  <br>
           <h4>The Deets</h4>
-	  <b>Who:</b>
+          <b>Who:</b>
           <br>
+<!--
+	  <div class="row">
+            <div class="col-sm-1">test1</div>
+            <div class="col-sm-1">test2</div>
+          </div>
+-->
 	  <div class="row">
             <div class="col-sm-8"><b>The Girls</b></div>
             <div class="col-sm-8"><b>The Boys</b></div>
-	  </div>
-	  <div class="row">
-	    <div class="col-sm-8 media">
+          </div>
+          <div class="row">
+            <div class="col-sm-8 media">
               <div class="media-left">
                 <img class="media-object" src="./img/jenny.jpg" width=64>
-	      </div>
-	      <div class="media-body">
-		<h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
                 Jenny has known Alison since Alison first came to Houston.
-	      </div>
-	    </div>
-	    <div class="col-sm-8 media">
+              </div>
+            </div>
+            <div class="col-sm-8 media">
               <div class="media-left">
                 <img class="media-object" src="./img/eric_e.jpg" width=64>
-	      </div>
-	      <div class="media-body">
-		<h5 class="media-heading">Eric Eldridge - Best Man</h5>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Eric Eldridge - Best Man</h5>
                 Eric and Michael were classmates from Middle School through College.
-	      </div>
-	    </div>
-	  </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -167,37 +177,19 @@ $config = parse_ini_file("config.ini");
 	Please rsvp by sending us a <a href="mailto:rsvp@alisonmichaelwedding.com">message</a>.<br>
         Please be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
       <div>
-      <!-- Button trigger modal -->
+
+<!-- Button trigger modal -->
 <!--
-      <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#rsvpModal">
+      <button type="button" class="btn btn-default" data-toggle="modal" data-target="#rsvpModal">
         Launch demo modal
       </button>
 -->
-      <!-- Modal -->
-<!--
-      <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-labelledby="rsvpModalLabel">
+
+      <div class="modal multi-step fade" id="rsvpModal" tabindex="-1" aria-labelledby="rsvpModalLabel" role="dialog">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-              <h4 class="modal-title" id="rsvpModalLabel">Modal title</h4>
-            </div>
-            <div class="modal-body">
-              ...
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-          </div>
-        </div>
-      </div>
--->
-<!--
-      <div class="modal multi-step" id="rsvpModal" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
+	    <div class="modal-header">
+              <h3 class="modal-title" id="rsvpModalLabel">This is a Demo</h3>
               <h4 class="modal-title step-1" data-step="1">Step 1</h4>
               <h4 class="modal-title step-2" data-step="2">Step 2</h4>
             </div>
@@ -214,19 +206,15 @@ $config = parse_ini_file("config.ini");
           </div>
         </div>
       </div>
--->
-      <div class="mastfoot">
-        <div class="inner">
-          <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
-        </div>
-      </div>
     </div> <!-- /container -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="./lib/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-<!--
-    <script src="./lib/js/multi-step-modal.js></script>
--->
+
+    <div class="mastfoot">
+      <div class="inner">
+        <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
+      </div>
+    </div>
+
+    <script src="./lib/js/multi-step-modal.js"></script>
     <script>
       //A script for animating the anchor links
       $('a[href*=\\#]').on('click', function(event) { 
@@ -236,8 +224,8 @@ $config = parse_ini_file("config.ini");
     </script>
     <script>
       sendEvent = function() {
-        $('#rsvp-modal').trigger('next.m.2');
-      }
+        $('#rsvpModal').trigger('next.m.2');
+      };
     </script>
   </body>
 </html>

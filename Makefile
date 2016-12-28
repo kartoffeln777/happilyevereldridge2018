@@ -11,4 +11,4 @@ build:
 	cp -R src/* bin/
 
 deploy:
-	rsync --checksum --delete -Lave 'ssh' bin/* michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding/
+	rsync --checksum --delete -Lave 'ssh' bin/ michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding/
