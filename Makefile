@@ -12,3 +12,6 @@ build:
 
 deploy:
 	rsync --checksum --delete -Lave 'ssh' bin/ michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding/
+
+test: clean build
+	rsync --checksum --delete -Lave 'ssh' bin/ michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding/test/
