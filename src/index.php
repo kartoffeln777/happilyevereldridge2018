@@ -12,7 +12,7 @@ $config = parse_ini_file("config.ini");
     <meta name="author" content="Michael Jones">
     <link rel="icon" href="./favicon.ico">
 
-    <title>Alison & Michael's Wedding</title>
+    <title>Alison &amp; Michael's Wedding</title>
 
     <link href="./lib/css/bootstrap.min.css" rel="stylesheet">
     <link href="./lib/css/bootstrap-theme.min.css" rel="stylesheet">
