@@ -34,8 +34,8 @@ $config = parse_ini_file("config.ini");
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-	</div>
-	
+        </div>
+
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-center">
             <li><a href="#OurStory">Our Story</a></li>
@@ -47,16 +47,16 @@ $config = parse_ini_file("config.ini");
                 <li><a href="#Transport">Transport</a></li>
                 <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
-	    </li>
+            </li>
             <li><a href="#RSVP">RSVP</a></li>
-	  </ul>
+          </ul>
 <!--
-	  <ul class="nav navbar-nav navbar-right">
-	    <li class="btn-default"><a href="#about">About</a></li>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="btn-default"><a href="#about">About</a></li>
             <button class="btn btn-default" type="submit">RSVP</button>
-	  </ul>
+          </ul>
 -->
-	</div><!--/.nav-collapse -->
+        </div><!--/.nav-collapse -->
       </div><!--/.containter -->
     </nav>
 
@@ -69,7 +69,7 @@ $config = parse_ini_file("config.ini");
     <div class="container">
       <div class="jumbotron section-header">
         <img class="header-image" src="./img/hands.jpg">
-	<div id="OurStory" class="jumptarget"><h2>Our Story</h2></div>
+        <div id="OurStory" class="jumptarget"><h2>Our Story</h2></div>
       </div>
 
       <div id="HowWeMet" class="inner jumptarget">
@@ -85,9 +85,9 @@ $config = parse_ini_file("config.ini");
       <div id="OurWedding" class="inner jumptarget">
         <div class="small-image-frame">
           <img class="header-image" src="./img/wynden.jpg">
-	</div>
-	<h3>Our Wedding</h3>
-	Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
+        </div>
+        <h3>Our Wedding</h3>
+        Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
         <br>
         <div class="EX-details">
           <h4>The Gist</h4>
@@ -109,19 +109,19 @@ $config = parse_ini_file("config.ini");
             <span class="organizer_email">rsvp@alisonmichaelwedding.com</span>
             <span class="all_day_event">false</span>
             <span class="date_format">MM/DD/YYYY</span>
-	    <span class="client"><?php echo $config['addeventclient'] ?></span>
-	  </div>
+            <span class="client"><?php echo $config['addeventclient'] ?></span>
+          </div>
           <br>
           <h4>The Deets</h4>
           <b>Who:</b>
           <br>
 <!--
-	  <div class="row">
+          <div class="row">
             <div class="col-sm-1">test1</div>
             <div class="col-sm-1">test2</div>
           </div>
 -->
-	  <div class="row">
+          <div class="row">
             <div class="col-sm-8"><b>The Girls</b></div>
             <div class="col-sm-8"><b>The Boys</b></div>
           </div>
@@ -174,34 +174,46 @@ $config = parse_ini_file("config.ini");
       </div>
 
       <div class="inner">
-	Please rsvp by sending us a <a href="mailto:rsvp@alisonmichaelwedding.com">message</a>.<br>
+        Please rsvp by sending us a <a href="mailto:rsvp@alisonmichaelwedding.com">message</a>.<br>
         Please be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
       <div>
 
 <!-- Button trigger modal -->
-<!--
       <button type="button" class="btn btn-default" data-toggle="modal" data-target="#rsvpModal">
         Launch demo modal
       </button>
--->
 
       <div class="modal multi-step fade" id="rsvpModal" tabindex="-1" aria-labelledby="rsvpModalLabel" role="dialog">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
-	    <div class="modal-header">
-              <h3 class="modal-title" id="rsvpModalLabel">This is a Demo</h3>
-              <h4 class="modal-title step-1" data-step="1">Step 1</h4>
-              <h4 class="modal-title step-2" data-step="2">Step 2</h4>
+            <div class="modal-header">
+              <!--<h3 class="modal-title" id="rsvpModalLabel">This is a Demo</h3>-->
+              <h3 class="modal-title step-1" data-step="1">RSVP</h4>
+              <h3 class="modal-title step-2" data-step="2">Step 2</h4>
             </div>
             <div class="modal-body step step-1">
-              This is step 1.
+	      <form id="checkRSVPForm">
+	        First Name: <input type="text" name="first_name" />
+                Last Name: <input type="text" name="last_name" />
+              </form>
             </div>
-            <div class="modal-body step step-2">
+	    <form class="modal-body step step-2">
               This is step 2.
+	    </form>
+	    <div class="modal-body step step-3">
+              You've already RSVP'd! No need to do anything further, but if you want you can <a href="mailto:rsvp@alisonmichaelwedding.com">email us</a> if you think you need to share anything with us.
+	      <form id="checkAgainRSVPForm">
+	        First Name: <input type="text" name="first_name" />
+                Last Name: <input type="text" name="last_name" />
+              </form>
+            </div>
+	    <div class="modal-body step step-4">
+              Sorry, but you're not on the guest list. We're super flattered that you want to join us, though. Feel free to <a href="mailto:rsvp@alisonmichaelwedding.com">email us</a> if you think there has been some sort of mistake.
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary step step-1" data-step="1" onclick="sendEvent()">Continue</button>
+                <button id="checkRSVPButton" type="button" class="btn btn-primary step step-1" data-step="1">Check Name</button>
+                <button id="checkAgainRSVPButton" type="button" class="btn btn-primary step step-3" data-step="1">Check Again</button>
             </div>
           </div>
         </div>
@@ -218,14 +230,38 @@ $config = parse_ini_file("config.ini");
     <script>
       //A script for animating the anchor links
       $('a[href*=\\#]').on('click', function(event) { 
-	event.preventDefault();
+        event.preventDefault();
         $('html,body').animate({ scrollTop:$(this.hash).offset().top }, 400);
       });
     </script>
     <script>
-      sendEvent = function() {
-        $('#rsvpModal').trigger('next.m.2');
+      transitionRSVP = function(step) {
+        $('#rsvpModal').trigger('next.m.'.concat(step));
       };
+      $(function() {
+        $("#checkRSVPButton").click(function() {
+          $.ajax({
+            type : 'POST',
+            url : 'https://alisonmichaelwedding.com/check-rsvp/',
+            data : $("#checkRSVPForm").serialize(),
+            processData : false,
+	    success : function(result) {
+	      if(result === "already_guest") {
+                transitionRSVP('3');
+              } else if(result === "not_invited") {
+                transitionRSVP('4');
+	      } else {
+                transitionRSVP('2');		      
+	      }
+              console.log(result);
+            },
+            error: function(xhr, resp, text) {
+              console.log(xhr, resp, text);
+	    }
+          });
+          return false;
+        });
+      });
     </script>
   </body>
 </html>
