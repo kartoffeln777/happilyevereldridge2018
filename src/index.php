@@ -229,7 +229,7 @@ $config = parse_ini_file("config.ini");
     <div class="mastfoot">
       <div class="container">
         <div class="inner">
-	  <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
+          <p>Made with love by <a href="https://autorefactorer.com" target="_blank">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding" target="_blank">here</a>.</p>
         </div>
       </div>
     </div>
