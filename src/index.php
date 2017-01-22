@@ -90,7 +90,7 @@ $config = parse_ini_file("config.ini");
         <h3>Our Wedding</h3>
         Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
         <br>
-        <div class="EX-details">
+        <div>
           <h4>The Gist</h4>
           <b>When:</b> February 19<sup>th</sup>, 2017<br>
           <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
@@ -180,7 +180,7 @@ $config = parse_ini_file("config.ini");
 	<b>Please RSVP with us by Tuesday, January 31<sup>st</sup>, 2017.</b>
         <br>
 	Be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
-      <div>
+      </div>
 
       <!-- Button trigger modal -->
 <!--
@@ -194,8 +194,8 @@ $config = parse_ini_file("config.ini");
           <div class="modal-content">
             <div class="modal-header">
               <!--<h3 class="modal-title" id="rsvpModalLabel">This is a Demo</h3>-->
-              <h3 class="modal-title step-1" data-step="1">RSVP</h4>
-              <h3 class="modal-title step-2" data-step="2">Step 2</h4>
+              <h3 class="modal-title step-1" data-step="1">RSVP</h3>
+              <h3 class="modal-title step-2" data-step="2">Step 2</h3>
             </div>
             <div class="modal-body step step-1">
 	      <form id="checkRSVPForm">
@@ -227,8 +227,10 @@ $config = parse_ini_file("config.ini");
     </div> <!-- /container -->
 
     <div class="mastfoot">
-      <div class="inner">
-        <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
+      <div class="container">
+        <div class="inner">
+	  <p>Made with love by <a href="https://autorefactorer.com">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding">here</a>.</p>
+        </div>
       </div>
     </div>
 
