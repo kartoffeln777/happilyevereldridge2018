@@ -49,7 +49,7 @@ $config = parse_ini_file("config.ini");
               </ul>
             </li>
             <li><a href="#RSVP">RSVP</a></li>
-          </ul>
+	  </ul>
 <!--
           <ul class="nav navbar-nav navbar-right">
             <li class="btn-default"><a href="#about">About</a></li>
@@ -174,14 +174,19 @@ $config = parse_ini_file("config.ini");
       </div>
 
       <div class="inner">
-        Please rsvp by sending us a <a href="mailto:rsvp@alisonmichaelwedding.com">message</a>.<br>
-        Please be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
+	You can RSVP by sending a message to <a href="mailto:rsvp@alisonmichaelwedding.com">rsvp@alisonmichaelwedding.com</a>.
+        <br>
+	<b>Please RSVP with us by Tuesday, January 31<sup>st</sup>, 2017.</b>
+        <br>
+	Be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
       <div>
 
-<!-- Button trigger modal -->
+      <!-- Button trigger modal -->
+<!--
       <button type="button" class="btn btn-default" data-toggle="modal" data-target="#rsvpModal">
         Launch demo modal
       </button>
+-->
 
       <div class="modal multi-step fade" id="rsvpModal" tabindex="-1" aria-labelledby="rsvpModalLabel" role="dialog">
         <div class="modal-dialog" role="document">
