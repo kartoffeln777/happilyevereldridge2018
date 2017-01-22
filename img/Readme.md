@@ -6,3 +6,4 @@ Below is a list of images currently depended on by the site:
 *  /boat-dark.jpg
 *  /hands.jpg
 *  /wynden.jpg
+*  /double-happiness.png
