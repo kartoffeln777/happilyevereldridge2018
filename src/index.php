@@ -49,9 +49,7 @@ $config = parse_ini_file("config.ini");
               </ul>
             </li>
             <li><a href="#RSVP">RSVP</a></li>
-<!--
 	    <li><a href="./gifts/">Gifts</a></li>
--->
 	  </ul>
 <!--
           <ul class="nav navbar-nav navbar-right">
