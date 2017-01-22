@@ -8,6 +8,7 @@ clean:
 build:
 	cp -R lib bin
 	cp -R img bin
+	cp -R config/* bin/
 	cp -R src/* bin/
 
 deploy:
