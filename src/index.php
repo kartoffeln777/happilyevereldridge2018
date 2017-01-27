@@ -80,7 +80,7 @@ $config = parse_ini_file("config.ini");
 
       <div>
         <h3>Our Proposal</h3>
-        While holidaying in Italy, Alison &amp; Michael travelled to Venice. After a day at the Basilica, marvelling at the beautiful treasure Venetian pirates had plundered from Byzantium, Michael insisted on taking a side-trip to see a modern art gallery - The <a href="https://www.google.com/maps/@45.4307284,12.335311,17.88z" target="_blank">Punta della Dogana</a>. Unbeknownst to Alison, Michael intended to propose there, as it offered a panoramic view over the Grand Canal and St. Mark's Square. To sustain the ruse, Michael had purchased tickets for entrance to the gallery before their arrival, but unfortunately for him, things had taken a dark, sinister turn since he last visited the art world. The gallery was filled with sculpture and painting that made the innocents weep, the pious unsure, and the the faint of heart fumble. With their hearts and minds forever changed, Michael brought Alison out of the gallery to the waterfront. His nerves high (was it the proposal or the art which afflicted him with nerves? he cannot say), he bent his knee and fumbled in his jacket pocket for a small box. When he looked up at Alison, he could tell that his actions so far had thankfully cleared her mind of the images from earlier. Michael recited a poem he found in a collection of love poetry he had from college - <a href="https://en.wikipedia.org/wiki/Love's_Philosophy" target="_blank">Love's Philosophy by Percy Bysshe Shelley</a>. When he finished, Michael asked Alison to marry him, to which she agreed.
+        While holidaying in Italy, Alison &amp; Michael travelled to Venice. After a day at the Basilica, marvelling at the beautiful treasure Venetian pirates had plundered from Byzantium, Michael insisted on taking a side-trip to see a modern art gallery - The <a href="https://www.google.com/maps/@45.4307284,12.335311,17.88z" target="_blank">Punta della Dogana</a>. Unbeknownst to Alison, Michael intended to propose there, as it offered a panoramic view over the Grand Canal and St. Mark's Square. To sustain the ruse, Michael had purchased tickets for entrance to the gallery before their arrival, but unfortunately for him, things had taken a dark, sinister turn since he last visited the art world. The gallery was filled with sculpture and painting that made the innocents weep, the pious unsure, and the faint of heart fumble. With their hearts and minds forever changed, Michael brought Alison out of the gallery to the waterfront. His nerves high (was it the proposal or the art which afflicted him with nerves? he cannot say), he bent his knee and fumbled in his jacket pocket for a small box. When he looked up at Alison, he could tell that his actions so far had thankfully cleared her mind of the images from earlier. Michael recited a poem he found in a collection of love poetry he had from college - <a href="https://en.wikipedia.org/wiki/Love's_Philosophy" target="_blank">Love's Philosophy by Percy Bysshe Shelley</a>. When he finished, Michael asked Alison to marry him, to which she agreed.
       </div>
 
       <div id="OurWedding" class="inner jumptarget">
@@ -112,10 +112,16 @@ $config = parse_ini_file("config.ini");
             <span class="date_format">MM/DD/YYYY</span>
             <span class="client"><?php echo $config['addeventclient'] ?></span>
           </div>
+	  <br>
           <br>
-          <h4>The Deets</h4>
-          <b>Who:</b>
-          <br>
+	  <h4>The Deets</h4>
+          <h5>Order of Events</h5>
+	    <ul>
+	      <li>Guests arrive</li>
+              <li>Ceremony starts at 5pm</li>
+              <li>Everyone parties</li>
+            </ul><br>
+          <h5>Wedding Party</h5>
 <!--
           <div class="row">
             <div class="col-sm-1">test1</div>
@@ -155,8 +161,42 @@ $config = parse_ini_file("config.ini");
       </div>
 
       <div id="Accomodations" class="inner jumptarget">
-        <h3>Accomodations</h3>
-        Coming soon.
+	<h3>Accomodations</h3>
+        <div>
+          <h4><a href="https://houstongalleria.house.hyatt.com/en/hotel/home.html" target="_blank">Hyatt House Houston/Galleria</a></h4>
+          <p>
+            3440 Sage Road</br>
+            Houston, TX 77056</br>
+          </p>
+          <a href="tel:+7136299711">(713) 629-9711</a>
+          <p>
+            Distance from venue: 2.2 miles</br>
+            Complimentary shuttle services within a 3-mile radius</br>
+          </p>
+          <p>
+            Group Room Rates: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
+            Online Booking Group Code: <b>G-CJWG</b><br>
+            Reference When Booking by Phone: <b>Chen-Jones Wedding</b><br>
+          </p>
+	  <h5><a href="https://houstongalleria.house.hyatt.com/houxggcjwg2017.html" target="_blank">Book online here</a></h5>
+          <h5>Hyatt has requested that people make reservations on or before Wednesday, February 15, 2017</h5><br>
+	</div>
+        <div>
+          <h4><a href="https://www.omnihotels.com/hotels/houston" target="_blank">Omni Houston Hotel</a></h4>
+          <p>
+            4 Riverway</br>
+            Houston, TX 77056</br>
+          </p>
+          <a href="tel:+7138718181">(713) 871-8181</a>
+          <p>
+            Distance from venue: &frac12; mile (10 minute walk)</br>
+            Complimentary shuttle services within a 3-mile radius</br>
+          </p>
+          <p>
+            Group Room Rates: <b>$130/night + taxes for a Deluxe Room with either 1 King Bed or 2 Queen Beds</b><br>
+            Online Booking Group Code: <font color="red"><b>Coming Soon</b></font><br>
+            Reference When Booking by Phone: <font color="red"><b>Coming Soon</b></font><br>
+	  </p>
       </div>
 
       <div id="Transport" class="inner jumptarget">
