@@ -200,13 +200,47 @@ $config = parse_ini_file("config.ini");
       </div>
 
       <div id="Transport" class="inner jumptarget">
-        <h3>Transportation</h3>
-        Coming soon.
+	<h3>Transportation</h3>
+        <p>
+	  If you won't be driving to Houston for our wedding, here are some helpful tips to get you around town.
+	  <ul>
+            <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for both major Houston airports: George Bush Intercontinental Airport (IAH) and William P. Hobby Airport (HOB).</li>
+            <li>Uber is a good option to get around town. If you don't have Uber yet, you can use our <a href="https://www.uber.com/invite/alisonc3729ue" target="_blank">link</a> to get the app. If you use Lyft, it is unfortunately no longer here.</li>
+            <li><a href="http://www.ridemetro.org/Pages/Rail.aspx" target="_blank">METRORail</a> is another option to travel within downtown, midtown, the Museum District, and Texas Medical Center. Fare for travel one way is 1.25 USD</li>
+          </ul>
       </div>
 
       <div id="ThingsToSee" class="inner jumptarget">
-        <h3>Things to See</h3>
-        Coming soon.
+	<h3>Things to See</h3>
+        (Distances shown are from the venue)
+	<h4>Indoors</h4>
+        <ul>
+          <li><a href="https://www.menil.org/visit" target="_blank">The Menil Collection</a> - <b>5 miles</b></li>
+          <li><a href="https://www.mfah.org/" target="">Houston Museum of Fine Arts</a> - <b>7 miles</b></li>
+          <li><a href="https://www.houstonsymphony.org/" target="_blank">Houston Symphony</a> - <b>7 miles</b></li>
+          <li><a href="https://www.alleytheatre.org/" target="_blank">Alley Theatre</a> - <b>7 miles</b></li>
+          <li><a href="http://www.hmns.org/" target="_blank">The Houston Museum of Natural Science</a> - <b>8 miles</b></li>
+          <li><a href="http://www.hmns.org/cockrell-butterfly-center/" target="_blank">The Cockrell Butterfly Center</a> - <b>8 miles</b></li>
+          <li><a href="http://www.saintarnold.com/" target="_blank">Saint Arnold Brewing Company</a> - <b>9 miles</b></li>
+        </ul>
+	<h4>Outdoors</h4>
+        <ul>
+	  <li><a href="https://www.tripadvisor.com/Attraction_Review-g56003-d561102-Reviews-Water_Wall-Houston_Texas.html" target="_blank">Gerald D. Hines Waterwall Park</a> - <b>1.5 miles</b> (not a theme park)</li>
+          <li><a href="https://www.mfah.org/visit/bayou-bend-collection-and-gardens/" target="_blank">Bayou Bend Collection and Gardens</a> - <b>4 miles</b></li>
+          <li><a href="http://www.houstonzoo.org/" target="_blank">Houston Zoo</a> - <b>8 miles</b></li>
+          <li><a href="https://tpwd.texas.gov/state-parks/san-jacinto-battleground" target="_blank">San Jacinto Battleground State Historic Site</a> - <b>32 miles</b></li>
+          <li><a href="https://spacecenter.org/" target="_blank">Space Center Houston</a> - <b>34 miles</b></li>
+        </ul>
+        <h4>Restaurants</h4>
+        <ul>
+	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
+          <li><a href="https://www.yelp.com/biz/caracol-houston" target="_blank">Caracol</a> - Coastal mexican cuisine</li>
+          <li><a href="https://www.yelp.com/biz/cuchara-houston" target="_blank">Cuchara</a> - Mexico City cuisine<b></b></li>
+          <li><a href="https://www.yelp.com/biz/korean-noodle-house-houston-4" target="_blank">Korean Noodle Houst</a></li>
+          <li><a href="https://www.yelp.com/biz/fungs-kitchen-houston" target="_blank">Fung's Kitchen</a> - best Dim Sum in town</li>
+	  <li><a href="https://www.yelp.com/biz/mala-sichuan-bistro-houston-2" target="_blank">Mala Sichuan Bistro</a> - our favorite restaurant, ever</li>
+          <li><a href="https://www.yelp.com/biz/mein-restaurant-houston" target="_blank">Mein (面)</a> - pretty good cantonese fusion place<b></b></li>
+        </ul>
       </div>
 
       <div class="jumbotron section-header">
