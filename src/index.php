@@ -167,16 +167,16 @@ $config = parse_ini_file("config.ini");
           <p>
             3440 Sage Road</br>
             Houston, TX 77056</br>
+            <a href="tel:+7136299711">(713) 629-9711</a>
           </p>
-          <a href="tel:+7136299711">(713) 629-9711</a>
           <p>
             Distance from venue: 2.2 miles</br>
             Complimentary shuttle services within a 3-mile radius</br>
           </p>
           <p>
-            Group Room Rates: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
+            Group Room Rate: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
             Online Booking Group Code: <b>G-CJWG</b><br>
-            Reference When Booking by Phone: <b>Chen-Jones Wedding</b><br>
+            Reference when booking by phone: <b>Chen-Jones Wedding</b><br>
           </p>
 	  <h5><a href="https://houstongalleria.house.hyatt.com/houxggcjwg2017.html" target="_blank">Book online here</a></h5>
           <h5>Hyatt has requested that people make reservations on or before Wednesday, February 15, 2017</h5><br>
@@ -185,9 +185,9 @@ $config = parse_ini_file("config.ini");
           <h4><a href="https://www.omnihotels.com/hotels/houston" target="_blank">Omni Houston Hotel</a></h4>
           <p>
             4 Riverway</br>
-            Houston, TX 77056</br>
+	    Houston, TX 77056</br>
+            <a href="tel:+7138718181">(713) 871-8181</a>
           </p>
-          <a href="tel:+7138718181">(713) 871-8181</a>
           <p>
             Distance from venue: &frac12; mile (10 minute walk)</br>
             Complimentary shuttle services within a 3-mile radius</br>
@@ -236,7 +236,7 @@ $config = parse_ini_file("config.ini");
 	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
           <li><a href="https://www.yelp.com/biz/caracol-houston" target="_blank">Caracol</a> - Coastal mexican cuisine</li>
           <li><a href="https://www.yelp.com/biz/cuchara-houston" target="_blank">Cuchara</a> - Mexico City cuisine<b></b></li>
-          <li><a href="https://www.yelp.com/biz/korean-noodle-house-houston-4" target="_blank">Korean Noodle Houst</a></li>
+          <li><a href="https://www.yelp.com/biz/korean-noodle-house-houston-4" target="_blank">Korean Noodle House</a></li>
           <li><a href="https://www.yelp.com/biz/fungs-kitchen-houston" target="_blank">Fung's Kitchen</a> - best Dim Sum in town</li>
 	  <li><a href="https://www.yelp.com/biz/mala-sichuan-bistro-houston-2" target="_blank">Mala Sichuan Bistro</a> - our favorite restaurant, ever</li>
           <li><a href="https://www.yelp.com/biz/mein-restaurant-houston" target="_blank">Mein (面)</a> - pretty good cantonese fusion place<b></b></li>
