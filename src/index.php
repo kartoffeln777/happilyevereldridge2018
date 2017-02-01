@@ -161,42 +161,77 @@ $config = parse_ini_file("config.ini");
       </div>
 
       <div id="Accomodations" class="inner jumptarget">
-	<h3>Accomodations</h3>
+        <h3>Accomodations</h3>
         <div>
           <h4><a href="https://houstongalleria.house.hyatt.com/en/hotel/home.html" target="_blank">Hyatt House Houston/Galleria</a></h4>
           <p>
-            3440 Sage Road</br>
-            Houston, TX 77056</br>
+            3440 Sage Road<br>
+            Houston, TX 77056<br>
             <a href="tel:+7136299711">(713) 629-9711</a>
           </p>
           <p>
-            Distance from venue: 2.2 miles</br>
-            Complimentary shuttle services within a 3-mile radius</br>
+            Distance from venue: 2.2 miles<br>
+            Complimentary shuttle services within a 3-mile radius<br>
           </p>
           <p>
-            Group Room Rate: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
-            Online Booking Group Code: <b>G-CJWG</b><br>
+            Group room rate: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
+            Online booking group code: <b>G-CJWG</b><br>
             Reference when booking by phone: <b>Chen-Jones Wedding</b><br>
           </p>
-	  <h5><a href="https://houstongalleria.house.hyatt.com/houxggcjwg2017.html" target="_blank">Book online here</a></h5>
+          <h5><a href="https://houstongalleria.house.hyatt.com/houxggcjwg2017.html" target="_blank">Book online here</a></h5>
           <h5>Hyatt has requested that people make reservations on or before Wednesday, February 15, 2017</h5><br>
-	</div>
+        </div>
         <div>
           <h4><a href="https://www.omnihotels.com/hotels/houston" target="_blank">Omni Houston Hotel</a></h4>
           <p>
-            4 Riverway</br>
-	    Houston, TX 77056</br>
-            <a href="tel:+7138718181">(713) 871-8181</a>
+            4 Riverway<br>
+            Houston, TX 77056<br>
+            <a href="tel:+17138718181">(713) 871-8181</a>
           </p>
           <p>
-            Distance from venue: &frac12; mile (10 minute walk)</br>
-            Complimentary shuttle services within a 3-mile radius</br>
+            Distance from venue: &frac12; mile (10 minute walk)<br>
+            Complimentary shuttle services within a 3-mile radius<br>
           </p>
           <p>
-            Group Room Rates: <b>$130/night + taxes for a Deluxe Room with either 1 King Bed or 2 Queen Beds</b><br>
-            Online Booking Group Code: <font color="red"><b>Coming Soon</b></font><br>
-            Reference When Booking by Phone: <font color="red"><b>Coming Soon</b></font><br>
+	    <h5>Group Room Rates:</h5>
+            <ul>
+              <li><b>$130/night + taxes for a Deluxe Room with either 1 King Bed or 2 Queen Beds</b></li>
+              <li><b>$140/night + taxes for a Premier Room with 1 King Bed or 2 Queen Beds</b></li>
+              <li><b>$230/night + taxes for a Galleria Suite with 1 King Bed</b></li>
+            </ul>
+	    Booking phone number: <a href="tel:+18008436664">1-800-THE-OMNI</a><br>
+            Reference when booking by phone: <b>Alison Chen &amp; Michael Jones Wedding Room Block</b><br>
 	  </p>
+	  <h5>
+            Omni will guarantee these special rates for reservations made on or before Friday, February 3, 2017<br>
+            After this date, rates and reservations will be based on hotel availability.
+          </h5>
+	  <h5><a href="https://www.omnihotels.com/hotels/houston/meetings/chen-jones-wedding" target="_blank">Book online here</a></h5><br>
+        </div>
+	<div>
+          <h4><a href="http://www3.hilton.com/en/hotels/texas/hilton-houston-post-oak-IAHWSHH/index.html" target="_blank">Hilton Houston Post Oak</a></h4>
+	  <p>
+            2001 Post Oak Blvd<br>
+            Houston, TX 77056<br>
+            <a href="tel:+17139619300">(713) 961-9300</a>
+	  </p>
+	  <p>
+            Distance from the Venue: 1 mile (20 minute walk)<br>
+            Complimentary shuttle services within a 3-mile radius
+	  </p>
+	  <p>
+	    <h5>Group Room Rates:</h5>
+            <ul>
+              <li><b>$99/night + taxes for a Standard Room with 1 King Bed</b></li>
+              <li><b>$119/night + taxes for a Standard Room with 2 Queen Beds</b></li>
+            </ul>
+            Online booking group code: <font color="red"><b>Coming soon</b></font><br>
+            Reference when booking by phone: <font color="red"><b>Coming soon</b></font><br>
+	  </p>
+	  <h5>
+            Hilton has requested that people make reservations on or before Sunday, February 12, 2017
+          </h5>
+        </div>
       </div>
 
       <div id="Transport" class="inner jumptarget">
