@@ -92,7 +92,7 @@ $config = parse_ini_file("config.ini");
         <br>
         <div>
           <h4>The Gist</h4>
-          <b>When:</b> February 19<sup>th</sup>, 2017<br>
+          <b>When:</b> February 19<sup>th</sup>, 2017 at 5 PM<br>
           <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
           <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
           <b>How:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Dressy Casual</a>
@@ -118,7 +118,7 @@ $config = parse_ini_file("config.ini");
           <h5>Order of Events</h5>
 	    <ul>
 	      <li>Guests arrive</li>
-              <li>Ceremony starts at 5pm</li>
+              <li>We get married</li>
               <li>Everyone parties</li>
             </ul><br>
           <h5>Wedding Party</h5>
