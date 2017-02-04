@@ -268,13 +268,21 @@ $config = parse_ini_file("config.ini");
         </ul>
         <h4>Restaurants</h4>
         <ul>
-	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
+          <li><a href="http://aladdinshouston.com/" target="_blank">Aladdin's</a> - Mediterranean cuisine</li>
+          <li><a href="https://www.yelp.com/biz/cafe-pita-galleria-houston-3" target="_blank">Cafe Pita</a> - Bosnian cuisine. There are other restaurants by similar names, so make sure you pick the right one.</li>
           <li><a href="https://www.yelp.com/biz/caracol-houston" target="_blank">Caracol</a> - Coastal mexican cuisine</li>
-          <li><a href="https://www.yelp.com/biz/cuchara-houston" target="_blank">Cuchara</a> - Mexico City cuisine<b></b></li>
-          <li><a href="https://www.yelp.com/biz/korean-noodle-house-houston-4" target="_blank">Korean Noodle House</a></li>
-          <li><a href="https://www.yelp.com/biz/fungs-kitchen-houston" target="_blank">Fung's Kitchen</a> - best Dim Sum in town</li>
-	  <li><a href="https://www.yelp.com/biz/mala-sichuan-bistro-houston-2" target="_blank">Mala Sichuan Bistro</a> - our favorite restaurant, ever</li>
-          <li><a href="https://www.yelp.com/biz/mein-restaurant-houston" target="_blank">Mein (面)</a> - pretty good cantonese fusion place<b></b></li>
+          <li><a href="https://www.yelp.com/biz/cuchara-houston" target="_blank">Cuchara</a> - Mexico City cuisine</li>
+          <li><a href="https://www.yelp.com/biz/divino-houston" target="_blank">Divino</a> - Fancy Italian cuisine</li>
+	  <li><a href="https://www.yelp.com/biz/fadis-meyerland-mediterranean-grill-houston?osq=mediterranean+restaurants" target="_blank">Fadi's</a> - Mediterranean cuisine. Same owners as Aladdin's, but an upgrade in atmosphere</li>
+          <li><a href="https://www.yelp.com/biz/fungs-kitchen-houston" target="_blank">Fung's Kitchen</a> - Best Dim Sum in town</li>
+          <li><a href="https://www.yelp.com/biz/kata-robata-sushi-and-grill-houston" target="_blank">Kata Robata</a> - Japanese cuisine. They have have fresh wasabi if you're interested.  Amazing sushi and spicy soy ramen</li>
+          <li><a href="https://www.yelp.com/biz/korean-noodle-house-houston-4" target="_blank">Korean Noodle House</a> - Great soup noodles, especially on a cold day</li>
+	  <li><a href="https://www.yelp.com/biz/mala-sichuan-bistro-houston-2" target="_blank">Mala Sichuan Bistro</a> - Our favorite restaurant, ever</li>
+          <li><a href="https://www.yelp.com/biz/masraffs-houston" target="_blank">Masraff's</a> - New American/Seafood.  They are catering our wedding, and we highly recommend their restaurant</li>
+          <li><a href="https://www.yelp.com/biz/mein-restaurant-houston" target="_blank">Mein (面)</a> - Pretty good cantonese fusion place</li>
+          <li><a href="https://www.yelp.com/biz/north-italia-houston" target="_blank">North Italia</a> - Italian cuisine.  We strongly recommend that you make a reservation in advance</li>
+	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
+          <li><a href="https://www.yelp.com/biz/thai-gourmet-houston" target="_blank">Thai Gourmet</a> - Best Thai food in Houston. The chicken fried rice and green/red curry is Alison's personal favorites</li>
         </ul>
       </div>
 
