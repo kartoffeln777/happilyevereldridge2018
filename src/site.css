@@ -51,3 +51,6 @@ div.details {
   /*border: 1px solid #000;*/
   padding: 1em;
 }
+.media-space {
+  margin-bottom: 15px !important;
+}

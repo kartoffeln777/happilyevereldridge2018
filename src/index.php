@@ -44,7 +44,7 @@ $config = parse_ini_file("config.ini");
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#Accomodations">Accomodations</a></li>
-                <li><a href="#Transport">Transport</a></li>
+                <li><a href="#Transportation">Transportation</a></li>
                 <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
             </li>
@@ -88,9 +88,8 @@ $config = parse_ini_file("config.ini");
           <img class="header-image" src="./img/wynden.jpg">
         </div>
         <h3>Our Wedding</h3>
-        Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.
-        <br>
-        <div>
+        <p>Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.</p><br>
+        <div id="OurWeddingGist">
           <h4>The Gist</h4>
           <b>When:</b> February 19<sup>th</sup>, 2017 at 5 PM<br>
           <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
@@ -111,9 +110,11 @@ $config = parse_ini_file("config.ini");
             <span class="all_day_event">false</span>
             <span class="date_format">MM/DD/YYYY</span>
             <span class="client"><?php echo $config['addeventclient'] ?></span>
-          </div>
-	  <br>
-          <br>
+          </div><br><br>
+
+	</div><!--OurWeddingGist-->
+
+	<div id="OurWeddingDeets">
 	  <h4>The Deets</h4>
           <h5>Order of Events</h5>
 	    <ul>
@@ -122,38 +123,90 @@ $config = parse_ini_file("config.ini");
               <li>Everyone parties</li>
             </ul><br>
           <h5>Wedding Party</h5>
-<!--
           <div class="row">
-            <div class="col-sm-1">test1</div>
-            <div class="col-sm-1">test2</div>
-          </div>
--->
-          <div class="row">
-            <div class="col-sm-8"><b>The Girls</b></div>
-            <div class="col-sm-8"><b>The Boys</b></div>
-          </div>
-          <div class="row">
-            <div class="col-sm-8 media">
-              <div class="media-left">
-                <img class="media-object" src="./img/jenny.jpg" width=64>
-              </div>
-              <div class="media-body">
-                <h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
-                Jenny has known Alison since Alison first came to Houston.
-              </div>
+	    <div class="col-md-6">
+              <b>The Girls</b>
             </div>
-            <div class="col-sm-8 media">
-              <div class="media-left">
-                <img class="media-object" src="./img/eric_e.jpg" width=64>
-              </div>
-              <div class="media-body">
-                <h5 class="media-heading">Eric Eldridge - Best Man</h5>
-                Eric and Michael were classmates from Middle School through College.
-              </div>
+	    <div class="col-md-6">
+              <b>The Boys</b>
             </div>
           </div>
-        </div>
-      </div>
+          <div class="row">
+	    <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/jenny.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
+                  Jenny has known Alison since Alison first moved to Houston.  They quickly became close friends and now they're like family. 
+		</div>
+              </div>
+            </div>
+	    <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/eric_e.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Eric Eldridge - Best Man</h5>
+                  Eric and Michael were classmates from Middle School through College.
+                </div>
+	      </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/lina.jpg" width=150>
+                </div>
+                <div class="media-body">
+		  <h5 class="media-heading">Lina Liu</h5>
+                  Lina and Alison went to the same Middle School, High School, and College. (GO HUSKIES!)  They've shared many laughters, tears, and late night snacks together.
+                </div>
+              </div>
+            </div>
+	    <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/eric_p.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Eric Pittman</h5>
+                  Eric and Michael were <i>also</i> classmates from Middle School through College. 
+                </div>
+	      </div>
+	    </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/ariel.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Ariel Jones</h5>
+		  Ariel is Michael's sister...soon to be Alison's too &#9825;
+                </div>
+	      </div>
+            </div>
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/manu.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Manu Gupta</h5>
+                  Manu, Alison &amp; Michael have been friends since Michael moved to Houston, all meeting at the same time at a local board game meetup.
+                </div>
+	      </div>
+            </div>
+          </div><!--last-row-->
+
+	</div><!--OurWeddingDeets-->
+
+      </div><!--OurWedding-->
 
       <div id="Details" class="jumbotron section-header">
         <img class="header-image" src="./img/boat-bright.jpg">
@@ -233,7 +286,7 @@ $config = parse_ini_file("config.ini");
         </div>
       </div>
 
-      <div id="Transport" class="inner jumptarget">
+      <div id="Transportation" class="inner jumptarget">
 	<h3>Transportation</h3>
         <p>
 	  If you won't be driving to Houston for our wedding, here are some helpful tips to get you around town.
