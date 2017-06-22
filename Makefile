@@ -12,7 +12,7 @@ build:
 	cp -R src/* bin/
 
 deploy:
-	rsync --checksum --delete -Lave 'ssh' bin/ michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding/
+	rsync --checksum --delete -Lave 'ssh' bin/ ubuntu@bighorse:/srv/happilyevereldridge2018/
 
 test: clean build
-	rsync --checksum --delete -Lave 'ssh' bin/ michael@alisonmichaelwedding.com:/srv/alisonmichaelwedding-test/
+	rsync --checksum --delete -Lave 'ssh' bin/ ubuntu@bighorse:/srv/happilyevereldrdige2018-test/
