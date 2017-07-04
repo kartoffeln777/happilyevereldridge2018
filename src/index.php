@@ -92,7 +92,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <img class="header-image" src="./img/wynden.jpg">
         </div>
         <h3>Our Wedding</h3>
-        <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you attended the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
+        <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
         <div id="OurWeddingGist">
           <h4>The Gist</h4>
           <b>When:</b> March 17<sup>th</sup>, 2018 at 430 PM<br>
@@ -123,38 +123,38 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <h5>Order of Events</h5>
 	    <ul>
 	      <li>Guests arrive</li>
-              <li>We get married</li>
-              <li>Everyone parties</li>
-            </ul><br>
-          <h5>Wedding Party</h5>
+          <li>We get married</li>
+          <li>Everyone parties</li>
+        </ul><br>
+          <h3>Wedding Party</h5>
           <div class="row">
 	    <div class="col-md-6">
               <b>The Girls</b>
             </div>
 	    <div class="col-md-6">
-              <b>The Boys</b>
+              <b>The Boyzzz</b>
             </div>
           </div>
           <div class="row">
 	    <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/jenny.jpg" width=150>
+                  <img class="media-object" src="./img/jess_o.jpg" width=150>
                 </div>
                 <div class="media-body">
-                  <h5 class="media-heading">Jenny Allen - Matron of Honor</h5>
-                  Jenny has known Alison since Alison first moved to Houston.  They quickly became close friends and now they're like family. 
+                  <h5 class="media-heading">Jessica Oswald - Maid of Honor</h5>
+                  Jessica and Sydnee met in pre-school and grew up playing soccer together.
 		</div>
               </div>
             </div>
 	    <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/eric_e.jpg" width=150>
+                  <img class="media-object" src="./img/michael_butterfly.jpg" width=150>
                 </div>
                 <div class="media-body">
-                  <h5 class="media-heading">Eric Eldridge - Best Man</h5>
-                  Eric and Michael were classmates from Middle School through College.
+                  <h5 class="media-heading">Michael Jones - Best Man</h5>
+                  Eric and Michael were classmates going all the way back to Middle School and all through college at UT rooming together on several occasions.
                 </div>
 	      </div>
             </div>
@@ -163,22 +163,22 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
             <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/lina.jpg" width=150>
+                  <img class="media-object" src="./img/soojin_h.jpg" width=150>
                 </div>
                 <div class="media-body">
-		  <h5 class="media-heading">Lina Liu</h5>
-                  Lina and Alison went to the same Middle School, High School, and College. (GO HUSKIES!)  They've shared many laughters, tears, and late night snacks together.
+		  <h5 class="media-heading">Soojin Han - Maid of Honor</h5>
+                Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&rsquo;ve been inseperable ever since. 
                 </div>
               </div>
             </div>
 	    <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/eric_p.jpg" width=150>
+                  <img class="media-object" src="./img/eric_gumby.jpg" width=150>
                 </div>
                 <div class="media-body">
-                  <h5 class="media-heading">Eric Pittman</h5>
-                  Eric and Michael were <i>also</i> classmates from Middle School through College. 
+                  <h5 class="media-heading">Eric Pittman - Best Man</h5>
+                  See Michael&rsquo;s bio, but Eric is half-Asian
                 </div>
 	      </div>
 	    </div>
@@ -187,22 +187,22 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
             <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/ariel.jpg" width=150>
+                  <img class="media-object" src="./img/cassie_j.jpg" width=150>
                 </div>
                 <div class="media-body">
-                  <h5 class="media-heading">Ariel Jones</h5>
-		  Ariel is Michael's sister...soon to be Alison's too &#9825;
+                  <h5 class="media-heading">Cassie Jay Barron</h5>
+                                        See Soojin&rsquo;s bio, but Cassie is <u>not</u> Asian 
                 </div>
 	      </div>
             </div>
             <div class="col-md-6">
               <div class="media media-space">
                 <div class="media-left">
-                  <img class="media-object" src="./img/manu.jpg" width=150>
+                  <img class="media-object" src="./img/john_e.jpg" width=150>
                 </div>
                 <div class="media-body">
-                  <h5 class="media-heading">Manu Gupta</h5>
-                  Manu, Alison &amp; Michael have been friends since Michael moved to Houston, all meeting at the same time at a local board game meetup.
+                  <h5 class="media-heading">John Elvig</h5>
+                  Eric &amp; John became friends after John transferred into the Aerospace Engineering department at the Universtiy of Texas. Their love of baseball and hatred of their many classes together formed a strong bond between them. It should be noted that Eric has won the last 3 tennis matches between the two of them.
                 </div>
 	      </div>
             </div>
@@ -295,24 +295,23 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
         <p>
 	  If you won't be driving to Houston for our wedding, here are some helpful tips to get you around town.
 	  <ul>
-            <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for both major Houston airports: George Bush Intercontinental Airport (IAH) and William P. Hobby Airport (HOB).</li>
-            <li>Uber is a good option to get around town. If you don't have Uber yet, you can use our <a href="https://www.uber.com/invite/alisonc3729ue" target="_blank">link</a> to get the app. If you use Lyft, it is unfortunately no longer here.</li>
-            <li><a href="http://www.ridemetro.org/Pages/Rail.aspx" target="_blank">METRORail</a> is another option to travel within downtown, midtown, the Museum District, and Texas Medical Center. Fare for travel one way is 1.25 USD</li>
+            <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for George Bush Intercontinental Airport (IAH). This is the airport that will be closer to the venue. You&rsquo;re welcome to fly into Hobby, but just know that it will be a significantly longer (~45 min) drive. </li>
+            <li>Uber and Lyft are both good options to get around town. 
           </ul>
       </div>
 
       <div id="ThingsToSee" class="inner jumptarget">
 	<h3>Things to See</h3>
-        (Distances shown are from the venue)
+        
 	<h4>Indoors</h4>
         <ul>
-          <li><a href="https://www.menil.org/visit" target="_blank">The Menil Collection</a> - <b>5 miles</b></li>
-          <li><a href="https://www.mfah.org/" target="">Houston Museum of Fine Arts</a> - <b>7 miles</b></li>
-          <li><a href="https://www.houstonsymphony.org/" target="_blank">Houston Symphony</a> - <b>7 miles</b></li>
-          <li><a href="https://www.alleytheatre.org/" target="_blank">Alley Theatre</a> - <b>7 miles</b></li>
-          <li><a href="http://www.hmns.org/" target="_blank">The Houston Museum of Natural Science</a> - <b>8 miles</b></li>
-          <li><a href="http://www.hmns.org/cockrell-butterfly-center/" target="_blank">The Cockrell Butterfly Center</a> - <b>8 miles</b></li>
-          <li><a href="http://www.saintarnold.com/" target="_blank">Saint Arnold Brewing Company</a> - <b>9 miles</b></li>
+          <li><a href="https://www.menil.org/visit" target="_blank">The Menil Collection</a> </li>
+          <li><a href="https://www.mfah.org/" target="">Houston Museum of Fine Arts</a> </li>
+          <li><a href="https://www.houstonsymphony.org/" target="_blank">Houston Symphony</a> </li>
+          <li><a href="https://www.alleytheatre.org/" target="_blank">Alley Theatre</a> </li>
+          <li><a href="http://www.hmns.org/" target="_blank">The Houston Museum of Natural Science</a> </li>
+          <li><a href="http://www.hmns.org/cockrell-butterfly-center/" target="_blank">The Cockrell Butterfly Center</a> </li>
+          <li><a href="http://www.saintarnold.com/" target="_blank">Saint Arnold Brewing Company</a> </li>
         </ul>
 	<h4>Outdoors</h4>
         <ul>
