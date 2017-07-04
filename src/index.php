@@ -76,12 +76,15 @@ $config = parse_ini_file("config.ini");
 
       <div id="HowWeMet" class="inner jumptarget">
         <h3>How We Met</h3>
-                         Sydnee and Eric met in December of 2011 in Austin, TX at a Halloween party. Sydnee was dressed as a girl scout while Eric was in the finest of lab coats to reflect his docotral profession. They hit it off immediately and began visiting one another on the weekends driving back and forth between Austin and Nacogdoches 3 hours away. We shared a sense of humor and a love of the outdoors that became apparent during our first date hiking and swimming at Hamilton Pool.
+                         Sydnee and Eric met in October of 2011 in Austin, TX at a Halloween party. Sydnee was dressed as a girl scout while Eric was in the finest of lab coats to reflect his docotral profession. They hit it off immediately and began visiting one another on the weekends driving back and forth between Austin and Nacogdoches 3 hours away. We shared a sense of humor and a love of the outdoors that became apparent during our first date hiking and swimming at Hamilton Pool.
       </div>
 
       <div>
         <h3>Our Proposal</h3>
-                         Sydnee and  Eric have always been very outdoorsy. Their first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, he told me that he wanted to go back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day.
+                         Sydnee and  Eric have always been very outdoorsy. Their first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, he told me that he wanted to go back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
+                         The two of us have always been very outdoorsy. Our first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, we went back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
+                         Against her better judgement, Sydnee relented to Eric&rsquo;s insistence that we go ahead with our plans to snow-shoe the next day. We got up bright and early after a night of trying to sleep through a nearly constant snow storm and hit the trail (which by this point, was covered in nearly three feet of snow). Trekking through thick snow (which was still coming down in flurries), we came to a small wooden bridge situated over a frozen stream. Eric fumbled in his pocket for his grandmother&rsquo;s  ring and dropped to one knee (with all the elagance of a drunk giraffe thanks to the snowshoes). <br><br>
+She said YES! and soon after, we hurried back to the campsite to break down camp as quickly as possible and get out of the park and into a hotel with a nice warm fireplace and a hot dinner. It was a a magical and memorbale trip never to be forgotten.<br>
       </div>
 
       <div id="OurWedding" class="inner jumptarget">
@@ -89,24 +92,24 @@ $config = parse_ini_file("config.ini");
           <img class="header-image" src="./img/wynden.jpg">
         </div>
         <h3>Our Wedding</h3>
-        <p>Alison &amp; Michael will be getting married in Houston, TX, where they have made their home. Dinner will be served after the ceremony. They would be honored if you attended the occasion.</p><br>
+        <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you attended the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
         <div id="OurWeddingGist">
           <h4>The Gist</h4>
-          <b>When:</b> February 19<sup>th</sup>, 2017 at 5 PM<br>
-          <b>Where:</b> <a href="https://www.facebook.com/The-Wynden-391434937603142/" target="_blank">The Wynden</a>&emsp;
-          <a href="https://www.google.com/maps/dir//The+Wynden,+1025+S+Post+Oak+Ln,+Houston,+TX+77056/@29.7571248,-95.4627507,15z/data=!4m15!1m6!3m5!1s0x0:0x4aad67163f2b829c!2sThe+Wynden!8m2!3d29.7571248!4d-95.4627507!4m7!1m0!1m5!1m1!1s0x8640c145dc37164b:0x4aad67163f2b829c!2m2!1d-95.4627507!2d29.7571248" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
-          <b>How:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Dressy Casual</a>
+          <b>When:</b> March 17<sup>th</sup>, 2018 at 430 PM<br>
+          <b>Where:</b> <a href="http://crystal.thespringsevents.com/" target="_blank">The Springs</a>&emsp;
+          <a href="https://www.google.com/maps/dir/''/the+springs+in+magnolia/@30.2130804,-95.8495072,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8646d77d183588d5:0xb668d90f9c3ca10b!2m2!1d-95.779467!2d30.213099" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
+          <b>Dress Attire:</b> <a href="https://www.theknot.com/content/wedding-guest-attire-cheat-sheet" target="_blank">Formal</a>
           <br>
           <br>
           <div title="Add to Calendar" class="addeventatc">
             Add to Calendar
-            <span class="start">02/19/2017 05:00 PM</span>
-            <span class="end">02/19/2017 11:00 PM</span>
+            <span class="start">03/17/2018 04:30 PM</span>
+            <span class="end">03/17/2018 11:00 PM</span>
             <span class="timezone">America/Chicago</span>
-            <span class="title">Alison &amp; Michael's Wedding Day</span>
+            <span class="title">Eric &amp; Sydnee&rsquo;s Wedding Day</span>
             <span class="description">The big day for your favorite people!</span>
-            <span class="location">1025 S Post Oak Ln, Houston, TX 77056</span>
-            <span class="organizer">Michael Jones</span>
+            <span class="location">33301 Old Hempstead Rd, Magnolia, TX 77355</span>
+            <span class="organizer">Eric Eldridge</span>
             <span class="organizer_email">rsvp@alisonmichaelwedding.com</span>
             <span class="all_day_event">false</span>
             <span class="date_format">MM/DD/YYYY</span>
