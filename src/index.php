@@ -206,6 +206,111 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
 	      </div>
             </div>
+            <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/steph_i.jpg" width=150>
+                </div>
+                <div class="media-body">
+                <h5 class="media-heading">Stephanie Ibrahim</h5>
+                Insert bio here
+                </div>
+	      </div>
+            </div>
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/deric_e.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Deric Eldridge</h5>
+                  Deric is the older of Eric&rsquo;s two younger brothers. 4 and 1/2 Eric&rsquo;s junior, Deric (aka Thor) grew up with Eric where they attended the Boy Scouts, soccer games (playing together for the Mongolian Death Worms indoor soccer team), baseball games, and all other manner of family fun.
+                </div>
+	      </div>
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/steph_i.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Stephanie Ibrahim</h5>
+                  Put Stephanie&rsquo;s bio here
+                </div>
+	      </div>
+            </div>
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/seanpaul_e.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Seanpaul Eldridge</h5>
+                                          Seanpaul is the youngest of Eric&rsquo;s 2 brothers. He is currently attending college in San Antonio where he is getting a degree in Equinology to pursue his passion for horses which knows no bounds. 
+                </div>
+	      </div>
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/liz_s.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Liz Sager</h5>
+                                       Next bio here 
+                </div>
+	      </div>
+            </div>
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/matt_s.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">Matt Sager</h5>
+                                                                                             Eric &amp; Matt also go back to high school, playing soccer both for the high school and for the much more successful indoor soccer team, the Mongolian Deathworms. After a brief hiatus the dynamic duo linked up again for a Comeback Tour when Matt moved to the great city of Houston, TX to form the all-time great joker super team, "The Bruise Brothers". 
+                </div>
+	      </div>
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/tbd.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">TBD</h5>
+                                       Insert bio here 
+                </div>
+	      </div>
+            </div>
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/tbd.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">TBD</h5>
+                  Insert bio here
+                </div>
+	      </div>
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+              <div class="media media-space">
+                <div class="media-left">
+                  <img class="media-object" src="./img/tbd.jpg" width=150>
+                </div>
+                <div class="media-body">
+                  <h5 class="media-heading">TBD</h5>
+                                       Insert bio here 
+                </div>
+	      </div>
+            </div>
+
           </div><!--last-row-->
 
 	</div><!--OurWeddingDeets-->
@@ -293,7 +398,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       <div id="Transportation" class="inner jumptarget">
 	<h3>Transportation</h3>
         <p>
-	  If you won't be driving to Houston for our wedding, here are some helpful tips to get you around town.
+        If you won&rsquo;t be driving to Houston for our wedding, here are some helpful tips to get you around town.
 	  <ul>
             <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for George Bush Intercontinental Airport (IAH). This is the airport that will be closer to the venue. You&rsquo;re welcome to fly into Hobby, but just know that it will be a significantly longer (~45 min) drive. </li>
             <li>Uber and Lyft are both good options to get around town. 
