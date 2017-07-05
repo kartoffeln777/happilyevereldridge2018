@@ -59,14 +59,14 @@
     <div class="container">
       <div id="content" class="inner jumptarget">
           <!--<h3>How We Met</h3>-->
-	If you would like to give us a gift, we have a few suggested ways for you to do so. This is of course optional. We are grateful for everyone who will be in attendance, and for everyone who cannot come but will be there in our thoughts and hearts; we're happy just to have your kind wishes.
+	If you would like to give us a gift, we have a few suggested ways for you to do so below. This is of course optional and we are most grateful to be able to see everyone who will be in attendance. 
        <br>
-       If you do wish to give us something, we ask that you not give us something tangible. We are currently in the process of house-hunting, and our 10 sq. ft. apartment cannot contain more stuff without exploding. We'd appreciate it if instead we got help towards some of our goals for starting our lives together.
+       
       </div>
 
       <div id="redEnvelope" class="inner jumptarget">
-        <h3>Red Envelope</h3>
-	<a href="https://en.wikipedia.org/wiki/Red_envelope" target="_blank">Red envelopes (紅包)</a> are a traditional gift in Chinese culture, and are the standard gift received in Taiwanese weddings. Typically, guests present them on the day of the wedding, and place them into a coffer. Red envelopes often come printed with decorative art on the front, and you can find some nice ones on <a href="http://etsy.me/2iS3MxE" target="_blank">Etsy</a> or on Amazon <a href="http://a.co/elz1z6j" target="_blank">here</a> and <a href="http://a.co/0mRYFNO" target="_blank">here</a>. If you'd like to participate, just bring a red envelope with you to our wedding. If you can't find a red envelope in time, we will have some available at the reception. Be sure to put your name on it so we can thank you later!
+        <h3>Amazon</h3>
+	<a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank">Our Amazon Registry</a> 
 <!--
 	<div class="inner">
 	  <p translate="no" typeof="schema:PostalAddress">
