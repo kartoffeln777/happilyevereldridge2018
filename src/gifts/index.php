@@ -46,7 +46,7 @@
             </li>
             <li><a href="../#RSVP">RSVP</a></li>
             <li><a href="./">Gifts</a></li>
-<!-- <li><a href="../Pictures/">Pictures</a></li> -->
+            <li><a href="../pictures/">Pictures</a></li> 
 
           </ul>
         </div><!--/.nav-collapse -->
