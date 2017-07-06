@@ -46,27 +46,29 @@
             </li>
             <li><a href="../#RSVP">RSVP</a></li>
             <li><a href="./">Gifts</a></li>
+<!-- <li><a href="../Pictures/">Pictures</a></li> -->
+
           </ul>
         </div><!--/.nav-collapse -->
       </div><!--/.containter -->
     </nav>
 
     <div class="masthead">
-      <img class="header-image" src="../img/double-happiness.png">
+      <img class="header-image" src="../img/gifts.jpg" height = 700 width = 1200>
       <h1>Gifts</h1>
     </div>
 
     <div class="container">
       <div id="content" class="inner jumptarget">
           <!--<h3>How We Met</h3>-->
-	If you would like to give us a gift, we have a few suggested ways for you to do so below. This is of course optional and we are most grateful to be able to see everyone who will be in attendance. 
+	If you would like to give us a gift, we have a few suggested ways for you to do so below. Most of all we are grateful for the opportunity to see everyone who will be in attendance. 
        <br>
        
       </div>
 
-      <div id="redEnvelope" class="inner jumptarget">
-        <h3>Amazon</h3>
-	<a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank">Our Amazon Registry</a> 
+      <div id="RegisteredAt" class="inner jumptarget">
+        <h3>The happy couple is registered at the following locations:</h3>
+                                                                  <br> <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank"><img src="../img/amazon.jpg" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank"><img src="../img/honeyfund.jpg" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank"><img src="../img/wayfair.jpg" width=150 /></a>  <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank"><img src="../img/crateandbarrel.png" width=200 /></a>
 <!--
 	<div class="inner">
 	  <p translate="no" typeof="schema:PostalAddress">
@@ -78,21 +80,21 @@
 -->
       </div>
 
-      <div id="honeymoon" class="inner jumptarget">
-        <h3>Honeymoon</h3>
-	If you'd like to contribute to our honeymoon, we have a <a href="https://www.honeyfund.com/wedding/MichaelandAlison4ever" target="_blank">site for that</a>. You can choose what you want the gift to go towards, and when we're going we'll be sure to take pictures and share them with you once we're back to show our thanks.
+      <div id="honeyfund" class="inner jumptarget">
+        <h3>Honeyfund</h3>
+                                                                  For those of you unfamiliar with Honeyfund, it&rsquo;s a registry that allows you to contribute cash towards our honeymoon, future house purchase, or any other purpose you&rsquo; like to specify. You can find our page <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank">here</a>. If you would prefer to do something similar, but not online, we will have a space at the venue.
       </div>
 
       <div id="home" class="inner jumptarget">
-        <h3>Our Home</h3>
-        If you'd like to contribute to our home, perhaps for an appliance or a small contribution to the home itself, we have a <a href="https://www.honeyfund.com/wedding/MichaelandAlison4ever" target="_blank">place for you to do so</a>. Please write a memo out to what you're contributing to, i.e. an appliance or a particular room. Later, we will be sure to share a picture with you once we have moved in, and the dust has settled.
+        <h3>WayFair</h3>
+                                                                                                                                                                                                                                                                    Wayfair is an e-commerce company with an emphasis on home goods, home furnishings and decor items. 
       </div>
     </div>
 
     <div class="mastfoot">
       <div class="container">
         <div class="inner">
-          <p>Made with love by <a href="https://autorefactorer.com" target="_blank">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding" target="_blank">here</a>.</p>
+          <p>Made with love by Michael. Cannibalized and customized by Eric. Source can be found <a href="https://github.com/kartoffeln777/happilyevereldridge2018" target="_blank">here</a>.</p>
         </div>
       </div>
     </div>
