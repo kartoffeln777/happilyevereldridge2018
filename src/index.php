@@ -63,7 +63,7 @@ $config = parse_ini_file("config.ini");
     </nav>
 
     <div class="masthead">
-      <img class="header-image" src="./img/after-proposal-harbor.jpg">
+    <img class="header-image" src="http://i.imgur.com/qIfWyFU.jpg">
       <h1>Eric &amp; Sydnee <br>
           03.17.2018</h1>
       <p class="subtitle">A day that will live in infamy!</p>
@@ -71,7 +71,7 @@ $config = parse_ini_file("config.ini");
 
     <div class="container">
       <div class="jumbotron section-header">
-        <img class="header-image" src="./img/hands.jpg">
+      <center><img class="header-image" src="http://i.imgur.com/CHnF61S.jpg" width=500 ></center>
         <div id="OurStory" class="jumptarget"><h2>Our Story</h2></div>
       </div>
 
@@ -90,7 +90,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 
       <div id="OurWedding" class="inner jumptarget">
         <div class="small-image-frame">
-          <img class="header-image" src="./img/wynden.jpg">
+        <img class="header-image" src="http://i.imgur.com/43QshnC.jpg">
         </div>
         <h3>Our Wedding</h3>
         <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
@@ -120,12 +120,15 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 	</div><!--OurWeddingGist-->
 
 	<div id="OurWeddingDeets">
-	  <h4>The Deets</h4>
-          <h5>Order of Events</h5>
+	  <h4>The Day Of Schedule</h4>
 	    <ul>
-	      <li>Guests arrive</li>
-          <li>We get married</li>
-          <li>Everyone parties</li>
+          <li><span style="text-decoration: underline;">4:45 PM</span>: Guests arrive</li>
+          <li><span style="text-decoration: underline;">5:00 PM</span>: Ceremony begins </li>
+          <li><span style="text-decoration: underline;">6:00 PM</span>: Appetizers/Passed hors d&rsquo;oeuvres</li>
+          <li><span style="text-decoration: underline;">7:00 PM</span>: Grand Entrance/Dinner</li>
+          <li><span style="text-decoration: underline;">8:00 PM</span>: Cake cutting</li>
+          <li><span style="text-decoration: underline;">8:15 PM</span>: Twerking n&rsquo; Jiving</li>
+          <li><span style="text-decoration: underline;">10:30 PM</span>: Grand Exit! </li>
         </ul><br>
           <h3>Wedding Party</h5>
           <div class="row">
@@ -319,7 +322,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       </div><!--OurWedding-->
 
       <div id="Details" class="jumbotron section-header">
-        <img class="header-image" src="./img/boat-bright.jpg">
+        <center><img class="header-image" src="http://i.imgur.com/IioDgza.jpg"></center>
         <h2>Details</h2>
       </div>
 
