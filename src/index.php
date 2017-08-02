@@ -8,8 +8,8 @@ $config = parse_ini_file("config.ini");
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="A website for celebrating Alison and Michael's big day">
-    <meta name="author" content="Michael Jones">
+    <meta name="description" content="A website for celebrating Eric and Sydnee's big day">
+    <meta name="author" content="Eric Eldridge">
     <link rel="icon" href="./favicon.ico">
 
     <title>Eric &amp; Sydnee&rsquo;s Wedding</title>
@@ -90,7 +90,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 
       <div id="OurWedding" class="inner jumptarget">
         <div class="small-image-frame">
-        <img class="header-image" src="http://i.imgur.com/43QshnC.jpg">
+        <img class="header-image" src="http://i.imgur.com/aYsRvtk.jpg">
         </div>
         <h3>Our Wedding</h3>
         <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
@@ -329,24 +329,25 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       <div id="Accomodations" class="inner jumptarget">
         <h3>Accomodations</h3>
         <div>
-          <h4><a href="https://houstongalleria.house.hyatt.com/en/hotel/home.html" target="_blank">Hyatt House Houston/Galleria</a></h4>
+        <h4><a href="https://www.ihg.com/staybridge/hotels/us/en/tomball/tmbsb/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-USA-_-TMBSB" target="_blank">Staybridge Suites in Tomball</a></h4>
           <p>
-            3440 Sage Road<br>
-            Houston, TX 77056<br>
-            <a href="tel:+7136299711">(713) 629-9711</a>
+            10011 Farm to Market Road 2920 <br>
+            Tomball, TX 77375<br>
+            <a href="tel:+8325398310">(832) 539-8310</a>
           </p>
           <p>
-            Distance from venue: 2.2 miles<br>
-            Complimentary shuttle services within a 3-mile radius<br>
+            Distance from venue: 16.5 miles (~30 min drive)<br>
+            Complimentary shuttle service possibly<br>
           </p>
           <p>
-            Group room rate: <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b><br>
-            Online booking group code: <b>G-CJWG</b><br>
-            Reference when booking by phone: <b>Chen-Jones Wedding</b><br>
+            Group room rate: TBD <!--- <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b> --> <br> 
+            Online booking group code: <b>TBD</b><br>
+            Reference when booking by phone: <b>TBD</b><br>
           </p>
-          <h5>Hyatt has requested that people make reservations on or before Wednesday, February 15, 2017</h5>
-          <h5><a href="https://houstongalleria.house.hyatt.com/houxggcjwg2017.html" target="_blank">Book online here</a></h5><br>
+          <!--- <h5>Staybridge has requested that people make reservations on or before Wednesday, Mar 14, 2018</h5> --->
+          <h5><a href="https://www.hotels.com/hotel/details.html?q-check-out=2018-03-18&tab=description&hotel-id=429802976&q-room-0-adults=2&YGF=14&q-check-in=2018-03-16&MGT=2&WOE=7&WOD=5&ZSX=1&SYE=3&q-room-0-children=0" target="_blank">Book online here</a></h5><br>
         </div>
+        <!---
         <div>
           <h4><a href="https://www.omnihotels.com/hotels/houston" target="_blank">Omni Houston Hotel</a></h4>
           <p>
@@ -371,32 +372,8 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 	  <h5>
             Omni will guarantee these special rates for reservations made on or before Friday, February 3, 2017<br>
             After this date, rates and reservations will be based on hotel availability
-          </h5>
-	  <h5><a href="https://www.omnihotels.com/hotels/houston/meetings/chen-jones-wedding" target="_blank">Book online here</a></h5><br>
-        </div>
-	<div>
-          <h4><a href="http://www3.hilton.com/en/hotels/texas/hilton-houston-post-oak-IAHWSHH/index.html" target="_blank">Hilton Houston Post Oak</a></h4>
-	  <p>
-            2001 Post Oak Blvd<br>
-            Houston, TX 77056<br>
-            <a href="tel:+17139619300">(713) 961-9300</a>
-	  </p>
-	  <p>
-            Distance from the Venue: 1 mile (20 minute walk)<br>
-            Complimentary shuttle services within a 3-mile radius
-	  </p>
-	  <p>
-	    <h5>Group Room Rates:</h5>
-            <ul>
-              <li><b>$99/night + taxes for a Standard Room with 1 King Bed</b></li>
-              <li><b>$119/night + taxes for a Standard Room with 2 Queen Beds</b></li>
-            </ul>
-            Online booking group code: <b>CJW</b><br>
-	    Reference when booking by phone: <b>Chen Jones Wedding</b><br>
-	  </p>
-	  <h5>Hilton has requested that people make reservations on or before Sunday, February 12, 2017</h5>
-	  <h5><a href="http://www.hilton.com/en/hi/groups/personalized/I/IAHWSHH-CJW-20170215/index.jhtml" target="_blank">Book online here</a></h5>
-        </div>
+       </div>
+       --->
       </div>
 
       <div id="Transportation" class="inner jumptarget">
@@ -424,12 +401,13 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
         </ul>
 	<h4>Outdoors</h4>
         <ul>
-	  <li><a href="https://www.tripadvisor.com/Attraction_Review-g56003-d561102-Reviews-Water_Wall-Houston_Texas.html" target="_blank">Gerald D. Hines Waterwall Park</a> - <b>1.5 miles</b> (not a theme park)</li>
-          <li><a href="https://www.mfah.org/visit/bayou-bend-collection-and-gardens/" target="_blank">Bayou Bend Collection and Gardens</a> - <b>4 miles</b></li>
-          <li><a href="http://www.houstonzoo.org/" target="_blank">Houston Zoo</a> - <b>8 miles</b></li>
-          <li><a href="https://tpwd.texas.gov/state-parks/san-jacinto-battleground" target="_blank">San Jacinto Battleground State Historic Site</a> - <b>32 miles</b></li>
-          <li><a href="https://spacecenter.org/" target="_blank">Space Center Houston</a> - <b>34 miles</b></li>
+	  <li><a href="https://www.tripadvisor.com/Attraction_Review-g56003-d561102-Reviews-Water_Wall-Houston_Texas.html" target="_blank">Gerald D. Hines Waterwall Park</a>  (not a theme park)</li>
+          <li><a href="https://www.mfah.org/visit/bayou-bend-collection-and-gardens/" target="_blank">Bayou Bend Collection and Gardens</a> </li>
+          <li><a href="http://www.houstonzoo.org/" target="_blank">Houston Zoo</a> </li>
+          <li><a href="https://tpwd.texas.gov/state-parks/san-jacinto-battleground" target="_blank">San Jacinto Battleground State Historic Site</a> </li>
+          <li><a href="https://spacecenter.org/" target="_blank">Space Center Houston</a> </li>
         </ul>
+        <!---
         <h4>Restaurants</h4>
         <ul>
           <li><a href="http://aladdinshouston.com/" target="_blank">Aladdin's</a> - Mediterranean cuisine</li>
@@ -448,19 +426,20 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
           <li><a href="https://www.yelp.com/biz/thai-gourmet-houston" target="_blank">Thai Gourmet</a> - Best Thai food in Houston. The chicken fried rice and green/red curry is Alison's personal favorites</li>
         </ul>
+      --->
       </div>
 
       <div class="jumbotron section-header">
-        <img class="header-image" src="./img/boat-dark.jpg">
+       <center><img class="header-image" src="http://i.imgur.com/9X7oLLC.jpg" width=300></center>
         <h2 id="RSVP" class="jumptarget">RSVP</h2>
       </div>
 
       <div class="inner">
-	You can RSVP by sending a message to <a href="mailto:rsvp@alisonmichaelwedding.com">rsvp@alisonmichaelwedding.com</a>.
+	You can RSVP by sending a message to <a href="mailto:rsvp@alisonmichaelwedding.com">TBD</a>.
         <br>
-	<b>Please RSVP with us by Tuesday, January 31<sup>st</sup>, 2017.</b>
+	<b>Please RSVP with us by <!---Tuesday, January 31<sup>st</sup>, 2017.--->TBD</b>
         <br>
-	Be sure to include whether you will be in attendance, the full name of your guest, your mailing address, and - if it isn't the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
+        Be sure to include whether you will be in attendance, the full name of your guest (if applicable), if you will require babysitting services, your mailing address, and - if it isn&apos;t the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
       </div>
 
       <!-- Button trigger modal -->
@@ -510,7 +489,9 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
     <div class="mastfoot">
       <div class="container">
         <div class="inner">
+        <!---
           <p>Made with love by <a href="https://autorefactorer.com" target="_blank">Michael</a>. Source can be found <a href="https://github.com/PisoMojado/alisonmichaelwedding" target="_blank">here</a>.</p>
+        --->
         </div>
       </div>
     </div>
