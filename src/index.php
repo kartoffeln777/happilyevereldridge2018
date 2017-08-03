@@ -12,7 +12,7 @@ $config = parse_ini_file("config.ini");
     <meta name="author" content="Eric Eldridge">
     <link rel="icon" href="./favicon.ico">
 
-    <title>Eric &amp; Sydnee&rsquo;s Wedding</title>
+    <title>Eric &amp; Sydnee&apos;s Wedding</title>
 
     <link href="./lib/css/bootstrap.min.css" rel="stylesheet">
     <link href="./lib/css/bootstrap-theme.min.css" rel="stylesheet">
@@ -84,7 +84,7 @@ $config = parse_ini_file("config.ini");
         <h3>Our Proposal</h3>
                          Sydnee and  Eric have always been very outdoorsy. Their first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, he told me that he wanted to go back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
                          The two of us have always been very outdoorsy. Our first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, we went back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
-                         Against her better judgement, Sydnee relented to Eric&rsquo;s insistence that we go ahead with our plans to snow-shoe the next day. We got up bright and early after a night of trying to sleep through a nearly constant snow storm and hit the trail (which by this point, was covered in nearly three feet of snow). Trekking through thick snow (which was still coming down in flurries), we came to a small wooden bridge situated over a frozen stream. Eric fumbled in his pocket for his grandmother&rsquo;s  ring and dropped to one knee (with all the elagance of a drunk giraffe thanks to the snowshoes). <br><br>
+                         Against her better judgement, Sydnee relented to Eric&apos;s insistence that we go ahead with our plans to snow-shoe the next day. We got up bright and early after a night of trying to sleep through a nearly constant snow storm and hit the trail (which by this point, was covered in nearly three feet of snow). Trekking through thick snow (which was still coming down in flurries), we came to a small wooden bridge situated over a frozen stream. Eric fumbled in his pocket for his grandmother&apos;s  ring and dropped to one knee (with all the elagance of a drunk giraffe thanks to the snowshoes). <br><br>
 She said YES! and soon after, we hurried back to the campsite to break down camp as quickly as possible and get out of the park and into a hotel with a nice warm fireplace and a hot dinner. It was a a magical and memorbale trip never to be forgotten.<br>
       </div>
 
@@ -93,7 +93,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
         <img class="header-image" src="http://i.imgur.com/aYsRvtk.jpg">
         </div>
         <h3>Our Wedding</h3>
-        <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&rsquo;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&rsquo;re reading this far down the page. </p><br>
+        <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&apos;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&apos;re reading this far down the page. </p><br>
         <div id="OurWeddingGist">
           <h4>The Gist</h4>
           <b>When:</b> March 17<sup>th</sup>, 2018 at 430 PM<br>
@@ -107,7 +107,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
             <span class="start">03/17/2018 04:30 PM</span>
             <span class="end">03/17/2018 11:00 PM</span>
             <span class="timezone">America/Chicago</span>
-            <span class="title">Eric &amp; Sydnee&rsquo;s Wedding Day</span>
+            <span class="title">Eric &amp; Sydnee&apos;s Wedding Day</span>
             <span class="description">The big day for your favorite people!</span>
             <span class="location">33301 Old Hempstead Rd, Magnolia, TX 77355</span>
             <span class="organizer">Eric Eldridge</span>
@@ -124,10 +124,10 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
 	    <ul>
           <li><span style="text-decoration: underline;">4:45 PM</span>: Guests arrive</li>
           <li><span style="text-decoration: underline;">5:00 PM</span>: Ceremony begins </li>
-          <li><span style="text-decoration: underline;">6:00 PM</span>: Appetizers/Passed hors d&rsquo;oeuvres</li>
+          <li><span style="text-decoration: underline;">6:00 PM</span>: Appetizers/Passed hors d&apos;oeuvres</li>
           <li><span style="text-decoration: underline;">7:00 PM</span>: Grand Entrance/Dinner</li>
           <li><span style="text-decoration: underline;">8:00 PM</span>: Cake cutting</li>
-          <li><span style="text-decoration: underline;">8:15 PM</span>: Twerking n&rsquo; Jiving</li>
+          <li><span style="text-decoration: underline;">8:15 PM</span>: Twerking n&apos; Jiving</li>
           <li><span style="text-decoration: underline;">10:30 PM</span>: Grand Exit! </li>
         </ul><br>
           <h3>Wedding Party</h5>
@@ -171,7 +171,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
 		  <h5 class="media-heading">Soojin Han - Maid of Honor</h5>
-                Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&rsquo;ve been inseperable ever since. 
+                Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&apos;ve been inseperable ever since. 
                 </div>
               </div>
             </div>
@@ -182,7 +182,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
                   <h5 class="media-heading">Eric Pittman - Best Man</h5>
-                  See Michael&rsquo;s bio, but Eric is half-Asian
+                  See Michael&apos;s bio, but Eric is half-Asian
                 </div>
 	      </div>
 	    </div>
@@ -195,7 +195,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
                   <h5 class="media-heading">Cassie Jay Barron</h5>
-                                        See Soojin&rsquo;s bio, but Cassie is <u>not</u> Asian 
+                                        See Soojin&apos;s bio, but Cassie is <u>not</u> Asian 
                 </div>
 	      </div>
             </div>
@@ -229,7 +229,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
                   <h5 class="media-heading">Deric Eldridge</h5>
-                  Deric is the older of Eric&rsquo;s two younger brothers. 4 and 1/2 Eric&rsquo;s junior, Deric (aka Thor) grew up with Eric where they attended the Boy Scouts, soccer games (playing together for the Mongolian Death Worms indoor soccer team), baseball games, and all other manner of family fun.
+                  Deric is the older of Eric&apos;s two younger brothers. 4 and 1/2 Eric&apos;s junior, Deric (aka Thor) grew up with Eric where they attended the Boy Scouts, soccer games (playing together for the Mongolian Death Worms indoor soccer team), baseball games, and all other manner of family fun.
                 </div>
 	      </div>
             </div>
@@ -241,7 +241,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
                   <h5 class="media-heading">Stephanie Ibrahim</h5>
-                  Put Stephanie&rsquo;s bio here
+                  Put Stephanie&apos;s bio here
                 </div>
 	      </div>
             </div>
@@ -252,7 +252,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
                 </div>
                 <div class="media-body">
                   <h5 class="media-heading">Seanpaul Eldridge</h5>
-                                          Seanpaul is the youngest of Eric&rsquo;s 2 brothers. He is currently attending college in San Antonio where he is getting a degree in Equinology to pursue his passion for horses which knows no bounds. 
+                                          Seanpaul is the youngest of Eric&apos;s 2 brothers. He is currently attending college in San Antonio where he is getting a degree in Equinology to pursue his passion for horses which knows no bounds. 
                 </div>
 	      </div>
             </div>
@@ -379,9 +379,9 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       <div id="Transportation" class="inner jumptarget">
 	<h3>Transportation</h3>
         <p>
-        If you won&rsquo;t be driving to Houston for our wedding, here are some helpful tips to get you around town.
+        If you won&apos;t be driving to Houston for our wedding, here are some helpful tips to get you around town.
 	  <ul>
-            <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for George Bush Intercontinental Airport (IAH). This is the airport that will be closer to the venue. You&rsquo;re welcome to fly into Hobby, but just know that it will be a significantly longer (~45 min) drive. </li>
+            <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for George Bush Intercontinental Airport (IAH). This is the airport that will be closer to the venue. You&apos;re welcome to fly into Hobby, but just know that it will be a significantly longer (~45 min) drive. </li>
             <li>Uber and Lyft are both good options to get around town. 
           </ul>
       </div>
