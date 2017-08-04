@@ -40,7 +40,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../#Accomodations">Accomodations</a></li>
-                <li><a href="../#Transport">Transport</a></li>
+<!--            <li><a href="../#Transport">Transport</a></li> -->
                 <li><a href="../#ThingsToSee">Things to See</a></li>
               </ul>
             </li>
@@ -54,7 +54,7 @@
     </nav>
 
     <div class="masthead">
-      <img class="header-image" src="../img/gifts.jpg" height = 700 width = 1200>
+     <img class="header-image" src="http://i.imgur.com/R2Jpcfo.jpg" >
       <h1>Gifts</h1>
     </div>
 
@@ -68,33 +68,37 @@
 
       <div id="RegisteredAt" class="inner jumptarget">
         <h3>The happy couple is registered at the following locations:</h3>
-                                                                  <br> <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank"><img src="../img/amazon.jpg" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank"><img src="../img/honeyfund.jpg" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank"><img src="../img/wayfair.jpg" width=150 /></a>  <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank"><img src="../img/crateandbarrel.png" width=200 /></a>
-<!--
-	<div class="inner">
-	  <p translate="no" typeof="schema:PostalAddress">
-            <span property="schema:name">Alison Chen and Michael Jones</span><br>
-            <span property="schema:streetAddress">4000 Essex Ln</span> Apt. 3203<br>
-            <span property="schema:addressLocality">Houston</span>, <abbr title="Texas" property="schema:addressRegion">TX</abbr> <span property="schema:postalCode">77027</span> <abbr property="schema:addressCountry">USA</abbr>
-          </p>
-        </div>
--->
+        <br>
+         <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/OwNnlnw.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/yW7Nx2v.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank"><img src="http://i.imgur.com/QsCZKtG.png" width=150 /></a>  <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank"><img src="http://i.imgur.com/nfmnZ5O.jpg" width=200 /></a>
+
+     </div>
+
+       <div id="amazon" class="inner jumptarget">
+        <h3>Amazon</h3>
+         Amazon.com is the largest internet-based retailer in the world with everything from furniture to electronics to kitchen-ware. You can find our registration page <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank">here</a>.
       </div>
 
       <div id="honeyfund" class="inner jumptarget">
         <h3>Honeyfund</h3>
-                                                                  For those of you unfamiliar with Honeyfund, it&rsquo;s a registry that allows you to contribute cash towards our honeymoon, future house purchase, or any other purpose you&rsquo; like to specify. You can find our page <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank">here</a>. If you would prefer to do something similar, but not online, we will have a space at the venue.
+         For those of you unfamiliar with Honeyfund, it&apos;s a registry that allows you to contribute cash towards our honeymoon, future house purchase, or any other purpose you&apos; like to specify. You can find our page <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank">here</a>. If you would prefer to do something similar, but not online, we will have a space at the venue.
       </div>
 
-      <div id="home" class="inner jumptarget">
+      <div id="wayfair" class="inner jumptarget">
         <h3>WayFair</h3>
-                                                                                                                                                                                                                                                                    Wayfair is an e-commerce company with an emphasis on home goods, home furnishings and decor items. 
+         Wayfair is an e-commerce company with an emphasis on home goods, home furnishings and decor items. You can find our Wayfair registry page <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank">here</a>.
       </div>
-    </div>
+    
+      <div id="crateAndBarrell" class="inner jumptarget">
+       <h3>Crate &amp; Barrell</h3>
+Crate &amp; Barrell is a chain of stores specializing in housewares, furniture, and home accessories. You can find our Crate &amp; Barrell registry page <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank">here</a>.
+     </div>
+
+</div>
 
     <div class="mastfoot">
       <div class="container">
         <div class="inner">
-          <p>Made with love by Michael. Cannibalized and customized by Eric. Source can be found <a href="https://github.com/kartoffeln777/happilyevereldridge2018" target="_blank">here</a>.</p>
+<!--     <p>Made with love by Michael. Cannibalized and customized by Eric. Source can be found <a href="https://github.com/kartoffeln777/happilyevereldridge2018" target="_blank">here</a>.</p> -->
         </div>
       </div>
     </div>

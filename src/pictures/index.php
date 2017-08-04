@@ -39,12 +39,12 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../#Accomodations">Accomodations</a></li>
-                <li><a href="../#Transport">Transport</a></li>
+<!--            <li><a href="../#Transport">Transport</a></li> -->
                 <li><a href="../#ThingsToSee">Things to See</a></li>
               </ul>
             </li>
             <li><a href="../#RSVP">RSVP</a></li>
-            <li><a href="./">Gifts</a></li>
+            <li><a href="../gifts/">Gifts</a></li>
             <li><a href="../pictures/">Pictures</a></li> 
 
           </ul>
@@ -53,7 +53,7 @@
     </nav>
 
     <div class="masthead">
-    <img class="header-image" src="http://i.imgur.com/S4WLsin.jpg" height = 600 width = 1200>
+     <img class="header-image" src="http://i.imgur.com/evVtnPi.jpg" >
       <h1>Engagement Pictures</h1>
     </div>
 
@@ -97,15 +97,6 @@
 
 <br><br><br>
 
-<!--
-	<div class="inner">
-	  <p translate="no" typeof="schema:PostalAddress">
-            <span property="schema:name">Alison Chen and Michael Jones</span><br>
-            <span property="schema:streetAddress">4000 Essex Ln</span> Apt. 3203<br>
-            <span property="schema:addressLocality">Houston</span>, <abbr title="Texas" property="schema:addressRegion">TX</abbr> <span property="schema:postalCode">77027</span> <abbr property="schema:addressCountry">USA</abbr>
-          </p>
-        </div>
--->
       </div>
 
       <div id="austinpics" class="inner jumptarget">
@@ -149,7 +140,7 @@
     <div class="mastfoot">
       <div class="container">
         <div class="inner">
-          <p>Made with love by Michael. Cannibalized and customized by Eric. Source can be found <a href="https://github.com/kartoffeln777/happilyevereldridge2018" target="_blank">here</a>.</p>
+<!--      <p>Made with love by Michael. Cannibalized and customized by Eric. Source can be found <a href="https://github.com/kartoffeln777/happilyevereldridge2018" target="_blank">here</a>.</p> -->
         </div>
       </div>
     </div>

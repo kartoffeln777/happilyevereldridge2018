@@ -44,7 +44,7 @@ $config = parse_ini_file("config.ini");
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Details<span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#Accomodations">Accomodations</a></li>
-                <li><a href="#Transportation">Transportation</a></li>
+<!--            <li><a href="#Transportation">Transportation</a></li> -->
                 <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
             </li>
@@ -95,7 +95,40 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
         <h3>Our Wedding</h3>
         <p>Eric &amp; Sydnee will be getting married at the Springs in Magnolia on the north side of Houston, TX, near the Woodlands. A cocktail hour with passed hors d&apos;oeuvres will be served immediately following the ceremony followed by a buffet style dinner. We would be honored if you would join us for the occasion. Unless you did not receive an invitation, which begs the question of how you found our website and why you&apos;re reading this far down the page. </p><br>
         <div id="OurWeddingGist">
-          <h4>The Gist</h4>
+          <h4>Time and Location</h4>
+          <center>
+
+          <div class="col-lg-6 col-lg-offset-3">
+          <div class="carousel slide" id="austinCarousel" style="width: 400px; margin 0 auto">
+            <div class="carousel-inner">
+              <div class="item active">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/cSYor5Q.png" class="img-responsive"></a></div>
+              </div>
+              <div class="item">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/oLb8X8T.png" class="img-responsive"></a></div>
+              </div>
+              <div class="item">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
+              </div>
+              <div class="item">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/d9pMl5K.png" class="img-responsive"></a></div>
+              </div>
+              <div class="item">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/DhLVtxL.jpg" class="img-responsive"></a></div>
+              </div>
+              <div class="item">
+                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
+              </div>
+
+            <a class="left carousel-control" href="#austinCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+            <a class="right carousel-control" href="#austinCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+          </div>
+          </div>
+
+          </center>
+
+          <br>
+
           <b>When:</b> March 17<sup>th</sup>, 2018 at 430 PM<br>
           <b>Where:</b> <a href="http://crystal.thespringsevents.com/" target="_blank">The Springs</a>&emsp;
           <a href="https://www.google.com/maps/dir/''/the+springs+in+magnolia/@30.2130804,-95.8495072,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x8646d77d183588d5:0xb668d90f9c3ca10b!2m2!1d-95.779467!2d30.213099" target="_blank"><span class="glyphicon glyphicon-map-marker"></span> Directions</a><br>
@@ -130,223 +163,260 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <li><span style="text-decoration: underline;">8:15 PM</span>: Twerking n&apos; Jiving</li>
           <li><span style="text-decoration: underline;">10:30 PM</span>: Grand Exit! </li>
         </ul><br>
-          <h3>Wedding Party</h5>
-          <div class="row">
-	    <div class="col-md-6">
-              <b>The Girls</b>
-            </div>
-	    <div class="col-md-6">
-              <b>The Boyzzz</b>
-            </div>
-          </div>
-          <div class="row">
-	    <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/jess_o.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Jessica Oswald - Maid of Honor</h5>
-                  Jessica and Sydnee met in pre-school and grew up playing soccer together.
-		</div>
-              </div>
-            </div>
-	    <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/michael_butterfly.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Michael Jones - Best Man</h5>
-                  Eric and Michael were classmates going all the way back to Middle School and all through college at UT rooming together on several occasions.
-                </div>
-	      </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/soojin_h.jpg" width=150>
-                </div>
-                <div class="media-body">
-		  <h5 class="media-heading">Soojin Han - Maid of Honor</h5>
-                Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&apos;ve been inseperable ever since. 
-                </div>
-              </div>
-            </div>
-	    <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/eric_gumby.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Eric Pittman - Best Man</h5>
-                  See Michael&apos;s bio, but Eric is half-Asian
-                </div>
-	      </div>
-	    </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/cassie_j.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Cassie Jay Barron</h5>
-                                        See Soojin&apos;s bio, but Cassie is <u>not</u> Asian 
-                </div>
-	      </div>
-            </div>
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/john_e.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">John Elvig</h5>
-                  Eric &amp; John became friends after John transferred into the Aerospace Engineering department at the Universtiy of Texas. Their love of baseball and hatred of their many classes together formed a strong bond between them. It should be noted that Eric has won the last 3 tennis matches between the two of them.
-                </div>
-	      </div>
-            </div>
-            <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/steph_i.jpg" width=150>
-                </div>
-                <div class="media-body">
-                <h5 class="media-heading">Stephanie Ibrahim</h5>
-                Insert bio here
-                </div>
-	      </div>
-            </div>
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/deric_e.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Deric Eldridge</h5>
-                  Deric is the older of Eric&apos;s two younger brothers. 4 and 1/2 Eric&apos;s junior, Deric (aka Thor) grew up with Eric where they attended the Boy Scouts, soccer games (playing together for the Mongolian Death Worms indoor soccer team), baseball games, and all other manner of family fun.
-                </div>
-	      </div>
-            </div>
-            <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/steph_i.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Stephanie Ibrahim</h5>
-                  Put Stephanie&apos;s bio here
-                </div>
-	      </div>
-            </div>
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/seanpaul_e.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Seanpaul Eldridge</h5>
-                                          Seanpaul is the youngest of Eric&apos;s 2 brothers. He is currently attending college in San Antonio where he is getting a degree in Equinology to pursue his passion for horses which knows no bounds. 
-                </div>
-	      </div>
-            </div>
-            <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/liz_s.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Liz Sager</h5>
-                                       Next bio here 
-                </div>
-	      </div>
-            </div>
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/matt_s.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">Matt Sager</h5>
-                                                                                             Eric &amp; Matt also go back to high school, playing soccer both for the high school and for the much more successful indoor soccer team, the Mongolian Deathworms. After a brief hiatus the dynamic duo linked up again for a Comeback Tour when Matt moved to the great city of Houston, TX to form the all-time great joker super team, "The Bruise Brothers". 
-                </div>
-	      </div>
-            </div>
-            <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/tbd.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">TBD</h5>
-                                       Insert bio here 
-                </div>
-	      </div>
-            </div>
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/tbd.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">TBD</h5>
-                  Insert bio here
-                </div>
-	      </div>
-            </div>
-            <div class="row">
-            <div class="col-md-6">
-              <div class="media media-space">
-                <div class="media-left">
-                  <img class="media-object" src="./img/tbd.jpg" width=150>
-                </div>
-                <div class="media-body">
-                  <h5 class="media-heading">TBD</h5>
-                                       Insert bio here 
-                </div>
-	      </div>
-            </div>
 
-          </div><!--last-row-->
+
+
+        <center><h3>Wedding Party</h3></center>
+
+        <div class="row">
+	      <div class="col-md-6">
+            <center><u><b><h4>The Girls</h4></b></u></center>
+          </div>
+	      <div class="col-md-6">
+            <center><u><b><h4>The Boyzzz</h4></b></u></center>
+          </div>
+        </div>
+
+        <div class="row">
+	      <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/jess_o.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Jessica Oswald - Maid of Honor</h5>
+                  Jessica and Sydnee met in pre-school and grew up playing soccer together.
+		      </div>
+            </div>
+          </div>
+	      <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/michael_butterfly.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Michael Jones - Best Man</h5>
+                  Eric and Michael were classmates going all the way back to Middle School and all through college at UT rooming together on several occasions. Michael also lives in Houston and was recently married in Feb 2017
+              </div>
+	        </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/soojin_h.jpg" width=150>
+              </div>
+              <div class="media-body">
+		        <h5 class="media-heading">Soojin Han - Maid of Honor</h5>
+                  Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&apos;ve been inseperable ever since. 
+              </div>
+            </div>
+          </div>
+	      <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/eric_gumby.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Eric Pittman - Best Man</h5>
+                   As with Michael, Eric and Eric knew each other from middle school all through college, also rooming together with Michael and John. Eric now lives in St. Louis where he is completing his Residency. 
+              </div>
+	        </div>
+	      </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/cassie_j.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Cassie Jay Barron</h5>
+                  See Soojin&apos;s bio, but Cassie is <u>not</u> Asian 
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/john_e.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">John Elvig</h5>
+                  Eric &amp; John became friends after John transferred into the Aerospace Engineering department at the Universtiy of Texas. Their love of baseball and hatred of their many classes together formed a strong bond between them. It should be noted that Eric has won 3 of the last 4 tennis matches between the two of them.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/steph_i.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Stephanie Ibrahim</h5>
+                  Insert bio here
+              </div>
+	        </div>
+          </div>
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/deric_e.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Deric Eldridge</h5>
+                  Deric is the older of Eric&apos;s two younger brothers. 4 and 1/2 Eric&apos;s junior, Deric (aka Thor) grew up with Eric where they attended the Boy Scouts, soccer games (playing together for the Mongolian Death Worms indoor soccer team), baseball games, and all other manner of family fun.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/steph_i.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Stephanie Ibrahim</h5>
+                  Put Stephanie&apos;s bio here
+              </div>
+	        </div>
+          </div>
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/seanpaul_e.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Seanpaul Eldridge</h5>
+                    Seanpaul is the youngest of Eric&apos;s 2 brothers. He is currently attending college in San Antonio where he is getting a degree in Equinology to pursue his passion for horses which knows no bounds. 
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/liz_s.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Liz Sager</h5>
+                  Next bio here 
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="http://i.imgur.com/otFVRPZ.png" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Matt Sager</h5>
+                  Eric &amp; Matt also go back to high school, playing soccer both for the high school and for the much more successful indoor soccer team, the Mongolian Deathworms. After a brief hiatus the dynamic duo linked up again for a Comeback Tour when Matt moved to the great city of Houston, TX to form the all-time great joker super team, "The Bruise Brothers". 
+              </div>
+	        </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/tbd.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">TBD</h5>
+                  Insert bio here 
+              </div>
+	        </div>
+          </div>
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="http://i.imgur.com/s9dyxPU.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">Garrett Fair</h5>
+                   Eric &amp; Garrett&apos;s rivalry started in the hallowed halls of Windcrest Elemnetary where the two young stalwarts duked it out to see which of them was going to be the Accellerated Reader champ. Though Eric emerged vitorious, they remained friends and attended school together all through college graduation at UT.  
+              </div>
+	        </div>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="media media-space">
+              <div class="media-left">
+                <img class="media-object" src="./img/tbd.jpg" width=150>
+              </div>
+              <div class="media-body">
+                <h5 class="media-heading">TBD</h5>
+                  Insert bio here 
+              </div>
+           </div>
+         </div>
+        </div>       <!--last-row-->
 
 	</div><!--OurWeddingDeets-->
 
       </div><!--OurWedding-->
 
       <div id="Details" class="jumbotron section-header">
-        <center><img class="header-image" src="http://i.imgur.com/IioDgza.jpg"></center>
+<center><img class="header-image" src="http://i.imgur.com/rDrRFV9.jpg"></center>
         <h2>Details</h2>
       </div>
 
       <div id="Accomodations" class="inner jumptarget">
         <h3>Accomodations</h3>
-        <div>
+      <div style="clear: right;">
+        <p style="float: right;"><img src="http://i.imgur.com/aR2KGas.jpg" height="300" width="400" border="1px"></p>
+        <p>
+      <div>
         <h4><a href="https://www.ihg.com/staybridge/hotels/us/en/tomball/tmbsb/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-USA-_-TMBSB" target="_blank">Staybridge Suites in Tomball</a></h4>
-          <p>
-            10011 Farm to Market Road 2920 <br>
-            Tomball, TX 77375<br>
-            <a href="tel:+8325398310">(832) 539-8310</a>
-          </p>
+
+         10011 Farm to Market Road 2920 <br>
+          Tomball, TX 77375<br>
+          <a href="tel:+8325398310">(832) 539-8310</a>
+        </p>
+<br>
           <p>
             Distance from venue: 16.5 miles (~30 min drive)<br>
             Complimentary shuttle service possibly<br>
           </p>
+<br>
           <p>
             Group room rate: TBD <!--- <b>$95/night + taxes for a Studio Suite with either 1 King Bed or 2 Double Beds</b> --> <br> 
             Online booking group code: <b>TBD</b><br>
             Reference when booking by phone: <b>TBD</b><br>
           </p>
           <!--- <h5>Staybridge has requested that people make reservations on or before Wednesday, Mar 14, 2018</h5> --->
+<br>
           <h5><a href="https://www.hotels.com/hotel/details.html?q-check-out=2018-03-18&tab=description&hotel-id=429802976&q-room-0-adults=2&YGF=14&q-check-in=2018-03-16&MGT=2&WOE=7&WOD=5&ZSX=1&SYE=3&q-room-0-children=0" target="_blank">Book online here</a></h5><br>
         </div>
+                                 </div>
         <!---
         <div>
           <h4><a href="https://www.omnihotels.com/hotels/houston" target="_blank">Omni Houston Hotel</a></h4>
@@ -496,6 +566,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       </div>
     </div>
 
+    <script src="./lib/js/carousel.js"></script>
     <script src="./lib/js/multi-step-modal.js"></script>
     <script>
       //A script for animating the anchor links
