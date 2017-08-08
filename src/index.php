@@ -48,9 +48,9 @@ $config = parse_ini_file("config.ini");
                 <li><a href="#ThingsToSee">Things to See</a></li>
               </ul>
             </li>
-            <li><a href="#RSVP">RSVP</a></li>
+            <li><a href="./rsvp">RSVP</a></li>
 	    <li><a href="./gifts/">Gifts</a></li>
-        <li><a href="../pictures/">Pictures</a></li> 
+        <li><a href="./pictures/">Pictures</a></li> 
 	  </ul>
 <!--
           <ul class="nav navbar-nav navbar-right">
@@ -185,7 +185,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
               </div>
               <div class="media-body">
                 <h5 class="media-heading">Jessica Oswald - Maid of Honor</h5>
-                  Jessica and Sydnee met in pre-school and grew up playing soccer together.
+                  Syd and Jess met in pre-school and grew up together. From playing on the same U4 soccer team to playing against each other in college, they’ve always been the best of friends. They lived together while on an exchange trip to Japan, and have spent countless hours watching mind-numbing amounts of Criminal Minds.  
 		      </div>
             </div>
           </div>
@@ -212,7 +212,8 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
               </div>
               <div class="media-body">
 		        <h5 class="media-heading">Soojin Han - Maid of Honor</h5>
-                  Soojin and Sydnee met while attending Stephen F Austin State University. Long nights of studying for O-chem brought them together and they&apos;ve been inseperable ever since. 
+                  Soojin and Syd met while both were dying in the pursuit of a decent grade in Dr. Langley’s chemistry class. Long nights of marathon study sessions, nights out full of hilarious stunts, and additional mind-numbing amounts of Criminal Minds made them the best of friends. The two have developed a love of traveling together, trying new food, and laying around with Syd and Eric’s cats. 
+ 
               </div>
             </div>
           </div>
@@ -239,7 +240,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
               </div>
               <div class="media-body">
                 <h5 class="media-heading">Cassie Jay Barron</h5>
-                  See Soojin&apos;s bio, but Cassie is <u>not</u> Asian 
+                  Syd first met Cassie in the classiest establishment in Nac-a-nowhere, The Annex. From there, the two grew closer as colleagues at SFA. Sydnee was given the honor of standing as a bridesmaid in Cassie’s wedding. From watching Jersey Shore while they got ready to go out, to tricking Cassie into coming to her own engagement party, the two have always remained close, even after Cassie’s move to CO.  
               </div>
             </div>
           </div>
@@ -262,11 +263,11 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <div class="col-md-6">
             <div class="media media-space">
               <div class="media-left">
-                <img class="media-object" src="./img/steph_i.jpg" width=150>
+                <img class="media-object" src="http://i.imgur.com/yPhVOGK.png" width=150>
               </div>
               <div class="media-body">
-                <h5 class="media-heading">Stephanie Ibrahim</h5>
-                  Insert bio here
+                <h5 class="media-heading">Kelley Driskill</h5>
+                  Syd and Kelley are first cousins, but have always considered themselves a little closer. Sydnee is the godmother of Kelley’s son, Gavin. The two briefly (and chaotically) lived together in college. Kelley-belly is a proud member of the United States Air Force and will just have returned from her first deployment in January 2018. Syd could not be more proud. 
               </div>
 	        </div>
           </div>
@@ -289,11 +290,11 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <div class="col-md-6">
             <div class="media media-space">
               <div class="media-left">
-                <img class="media-object" src="./img/steph_i.jpg" width=150>
+                <img class="media-object" src="http://i.imgur.com/1To0oSK.png" width=150>
               </div>
               <div class="media-body">
-                <h5 class="media-heading">Stephanie Ibrahim</h5>
-                  Put Stephanie&apos;s bio here
+                <h5 class="media-heading">Liz Sager</h5>
+                  Syd first met Liz while participating in the most respected activity in the world: playing a game of Kickball. They were introduced by Eric and his groomsman Matt (notice they have the same last name). The pair of pairs has become great friends, participating in various food contests, playing board games, and hanging out with their awesome 2yo son, Weston.  
               </div>
 	        </div>
           </div>
@@ -316,11 +317,11 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <div class="col-md-6">
             <div class="media media-space">
               <div class="media-left">
-                <img class="media-object" src="./img/liz_s.jpg" width=150>
+                <img class="media-object" src="http://i.imgur.com/u8sLtP0.png" width=150>
               </div>
               <div class="media-body">
-                <h5 class="media-heading">Liz Sager</h5>
-                  Next bio here 
+                <h5 class="media-heading">Michelle Karam</h5>
+                  Michelle (MRTL as she’s known in the streets) and Syd first became acquainted at UH, as cohorts in the same class of students pursuing their master’s degrees. The two have since bonded over cramming their faces between classes, banging out term papers, and drinking Daquiri’s on the go. If you frequent The Nook on the UH Campus, you’re likely to see them half-working, half-gossiping at all hours of the day.  
               </div>
             </div>
           </div>
@@ -343,11 +344,11 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <div class="col-md-6">
             <div class="media media-space">
               <div class="media-left">
-                <img class="media-object" src="./img/tbd.jpg" width=150>
+                <img class="media-object" src="http://i.imgur.com/WaCFYY5.png" width=150>
               </div>
               <div class="media-body">
-                <h5 class="media-heading">TBD</h5>
-                  Insert bio here 
+                <h5 class="media-heading">Olivia Di Rodriguez</h5>
+                  Syd and Olivia met during their time at The University of St. Thomas. Both were mutual friends of Steph Ibrahim, and became close to each other as they were both Steph’s plus-one to something. They lived together last year, and spent a great deal of time eating sushi, cooking, entertaining guests, laying around, and generally chillin. The two spend a great deal of time putting outfits together, shopping Sephora sales, and talking about cute, fluffy animals.  
               </div>
 	        </div>
           </div>
@@ -370,11 +371,11 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <div class="col-md-6">
             <div class="media media-space">
               <div class="media-left">
-                <img class="media-object" src="./img/tbd.jpg" width=150>
+                <img class="media-object" src="http://i.imgur.com/6tKrnW8.png" width=150>
               </div>
               <div class="media-body">
-                <h5 class="media-heading">TBD</h5>
-                  Insert bio here 
+                <h5 class="media-heading">Stephanie Ibrahim</h5>
+                  Syd and Steph first met in a Nucleic Acids class during Syd’s senior year at UST. They quickly became friends after Syd invited Steph over for pancakes and mimosas, and taught her how to pre-game senior-level biology courses. From eating lots of specific, themed foods on Tuesdays and Thursdays, to watching each other succeed in seminars, the two have always been close friends. Steph is currently a medical student at UTMB in Galveston.  
               </div>
            </div>
          </div>
@@ -500,14 +501,14 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       </div>
 
       <div class="jumbotron section-header">
-       <center><img class="header-image" src="http://i.imgur.com/9X7oLLC.jpg" width=300></center>
+        <center><img class="header-image" src="http://i.imgur.com/m2dgESZ.jpg" width=60%></center>
         <h2 id="RSVP" class="jumptarget">RSVP</h2>
       </div>
 
       <div class="inner">
-	You can RSVP by sending a message to <a href="mailto:rsvp@alisonmichaelwedding.com">TBD</a>.
+	You can RSVP by sending a message to <a href="mailto:rsvp@happilyevereldridge2018.com">rsvp@happilyevereldridge2018.com</a>.
         <br>
-	<b>Please RSVP with us by <!---Tuesday, January 31<sup>st</sup>, 2017.--->TBD</b>
+	<b>Please RSVP with us by Wednesday, January 17<sup>th</sup>, 2018.</b>
         <br>
         Be sure to include whether you will be in attendance, the full name of your guest (if applicable), if you will require babysitting services, your mailing address, and - if it isn&apos;t the one used to RSVP - what your preferred email address for future contact might be. We hope to see you at our wedding!
       </div>

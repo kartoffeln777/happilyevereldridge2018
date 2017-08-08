@@ -54,6 +54,15 @@ div.details {
 .media-space {
   margin-bottom: 15px !important;
 }
+.rightAlignImage {
+    float: right;
+}
+.leftAlignText {
+    float:left;
+}
+.carousel {
+    width: 100% !important;
+}
 /* override position and transform in 3.3.x */
 .carousel-inner .item.left.active {
     transform: translateX(-33%);
@@ -78,7 +87,4 @@ div.details {
 .carousel-control.left,
 .carousel-control.right {
     background-image:none;
-}
-.carousel {
-    width: 100% !important;
 }

@@ -69,7 +69,7 @@
       <div id="RegisteredAt" class="inner jumptarget">
         <h3>The happy couple is registered at the following locations:</h3>
         <br>
-         <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/OwNnlnw.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/yW7Nx2v.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank"><img src="http://i.imgur.com/QsCZKtG.png" width=150 /></a>  <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank"><img src="http://i.imgur.com/nfmnZ5O.jpg" width=200 /></a>
+                                                                  <a href="https://www.amazon.com/wedding/share/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/OwNnlnw.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.honeyfund.com/wedding/happilyevereldridge2018" target="_blank"><img src="http://i.imgur.com/yW7Nx2v.png" width=150 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank"><img src="http://i.imgur.com/QsCZKtG.png" width=150 /></a>  <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank"><img src="http://i.imgur.com/nfmnZ5O.jpg" width=200 /></a> <?php echo str_repeat("&nbsp;", 10); ?> <a href="https://www.facebook.com/houseoftraditions/?rf=828877947181803" target="_blank"><img src="http://i.imgur.com/iEol8hQ.png" width=150 /></a>
 
      </div>
 
@@ -91,6 +91,10 @@
       <div id="crateAndBarrell" class="inner jumptarget">
        <h3>Crate &amp; Barrell</h3>
 Crate &amp; Barrell is a chain of stores specializing in housewares, furniture, and home accessories. You can find our Crate &amp; Barrell registry page <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank">here</a>.
+     </div>
+     <div id="houseOfTraditions" class="inner jumptarget">
+       <h3>House of Traditions</h3>
+         House of Traditions is a gift shop in downtown Nacogdoches. This eclectic little shop carries a little of everything from appliances to dinnerware. 
      </div>
 
 </div>
