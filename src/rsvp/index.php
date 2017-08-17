@@ -76,10 +76,10 @@
         <p class= "line">________________________________________</p>
         <form action="/action_page.php" method="get">
           <div class="item" style="display: inline">
-          <input type="text" placeholder="Name">
-          <input type="number" placeholder="# of Guests">
-          <input type="checkbox" name="babysit" value="needed"> I will need a babysitter
-          </div>
+            <input type="text" placeholder="Name">
+            <input type="number" placeholder="# of Guests">
+            <input type="checkbox" name="babysit" value="needed"> I will need a babysitter
+           </div>
         </form></div>
       <button class ="accept">Accept</button>
       <button class ="regret" style="float:right">Decline</button>

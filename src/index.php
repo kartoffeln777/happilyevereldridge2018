@@ -393,7 +393,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
       <div id="Accomodations" class="inner jumptarget">
         <h3>Accomodations</h3>
       <div style="clear: right;">
-        <p style="float: right;"><img src="http://i.imgur.com/aR2KGas.jpg" height="300" width="400" border="1px"></p>
+        <p style="float: right;"><img src="http://i.imgur.com/aR2KGas.jpg" height="300" width="400"  style="padding-right:0%"></p>
         <p>
       <div>
         <h4><a href="https://www.ihg.com/staybridge/hotels/us/en/tomball/tmbsb/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-USA-_-TMBSB" target="_blank">Staybridge Suites in Tomball</a></h4>
@@ -453,14 +453,14 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
         If you won&apos;t be driving to Houston for our wedding, here are some helpful tips to get you around town.
 	  <ul>
             <li>There are taxi and <a href="https://www.supershuttle.com/" target="_blank">shuttle services</a> for George Bush Intercontinental Airport (IAH). This is the airport that will be closer to the venue. You&apos;re welcome to fly into Hobby, but just know that it will be a significantly longer (~45 min) drive. </li>
-            <li>Uber and Lyft are both good options to get around town. 
+          <li>Uber and Lyft are both good options to get around town if you prefer not to drive..
           </ul>
       </div>
 
       <div id="ThingsToSee" class="inner jumptarget">
-	<h3>Things to See</h3>
+        <h3>Things to See (near downtown)</h3>
         
-	<h4>Indoors</h4>
+	    <h4>Indoors</h4>
         <ul>
           <li><a href="https://www.menil.org/visit" target="_blank">The Menil Collection</a> </li>
           <li><a href="https://www.mfah.org/" target="">Houston Museum of Fine Arts</a> </li>
@@ -470,16 +470,16 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <li><a href="http://www.hmns.org/cockrell-butterfly-center/" target="_blank">The Cockrell Butterfly Center</a> </li>
           <li><a href="http://www.saintarnold.com/" target="_blank">Saint Arnold Brewing Company</a> </li>
         </ul>
-	<h4>Outdoors</h4>
+	    <h4>Outdoors</h4>
         <ul>
-	  <li><a href="https://www.tripadvisor.com/Attraction_Review-g56003-d561102-Reviews-Water_Wall-Houston_Texas.html" target="_blank">Gerald D. Hines Waterwall Park</a>  (not a theme park)</li>
+	      <li><a href="https://www.tripadvisor.com/Attraction_Review-g56003-d561102-Reviews-Water_Wall-Houston_Texas.html" target="_blank">Gerald D. Hines Waterwall Park</a>  (not a theme park)</li>
           <li><a href="https://www.mfah.org/visit/bayou-bend-collection-and-gardens/" target="_blank">Bayou Bend Collection and Gardens</a> </li>
           <li><a href="http://www.houstonzoo.org/" target="_blank">Houston Zoo</a> </li>
           <li><a href="https://tpwd.texas.gov/state-parks/san-jacinto-battleground" target="_blank">San Jacinto Battleground State Historic Site</a> </li>
           <li><a href="https://spacecenter.org/" target="_blank">Space Center Houston</a> </li>
         </ul>
-        <!---
-        <h4>Restaurants</h4>
+        <!--
+        <h4>Restaurants (near downtown)</h4>
         <ul>
           <li><a href="http://aladdinshouston.com/" target="_blank">Aladdin's</a> - Mediterranean cuisine</li>
           <li><a href="https://www.yelp.com/biz/cafe-pita-galleria-houston-3" target="_blank">Cafe Pita</a> - Bosnian cuisine. There are other restaurants by similar names, so make sure you pick the right one.</li>
@@ -494,10 +494,10 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <li><a href="https://www.yelp.com/biz/masraffs-houston" target="_blank">Masraff's</a> - New American/Seafood.  They are catering our wedding, and we highly recommend their restaurant</li>
           <li><a href="https://www.yelp.com/biz/mein-restaurant-houston" target="_blank">Mein (面)</a> - Pretty good cantonese fusion place</li>
           <li><a href="https://www.yelp.com/biz/north-italia-houston" target="_blank">North Italia</a> - Italian cuisine.  We strongly recommend that you make a reservation in advance</li>
-	  <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
+	      <li><a href="https://www.yelp.com/biz/the-original-ninfas-on-navigation-houston-3" target="_blank">The Original Ninfa's on Navigation</a> - Our favorite place for Tex-Mex</li>
           <li><a href="https://www.yelp.com/biz/thai-gourmet-houston" target="_blank">Thai Gourmet</a> - Best Thai food in Houston. The chicken fried rice and green/red curry is Alison's personal favorites</li>
         </ul>
-      --->
+      -->
       </div>
 
       <div class="jumbotron section-header">
