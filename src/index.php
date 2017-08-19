@@ -77,15 +77,15 @@ $config = parse_ini_file("config.ini");
 
       <div id="HowWeMet" class="inner jumptarget">
         <h3>How We Met</h3>
-                         Sydnee and Eric met in October of 2011 in Austin, TX at a Halloween party. Sydnee was dressed as a girl scout while Eric was in the finest of lab coats to reflect his docotral profession. They hit it off immediately and began visiting one another on the weekends driving back and forth between Austin and Nacogdoches 3 hours away. We shared a sense of humor and a love of the outdoors that became apparent during our first date hiking and swimming at Hamilton Pool.
+        Sydnee and Eric met in October of 2011 in Austin, TX at a Halloween party. Sydnee was dressed as a girl scout while Eric was in the finest of lab coats to reflect his docotral profession. They hit it off immediately and began visiting one another on the weekends driving back and forth between Austin and Nacogdoches 3 hours away. We shared a sense of humor and a love of the outdoors that became apparent during our first date hiking and swimming at Hamilton Pool.
       </div>
 
       <div>
         <h3>Our Proposal</h3>
-                         Sydnee and  Eric have always been very outdoorsy. Their first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, he told me that he wanted to go back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
-                         The two of us have always been very outdoorsy. Our first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, we went back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
-                         Against her better judgement, Sydnee relented to Eric&apos;s insistence that we go ahead with our plans to snow-shoe the next day. We got up bright and early after a night of trying to sleep through a nearly constant snow storm and hit the trail (which by this point, was covered in nearly three feet of snow). Trekking through thick snow (which was still coming down in flurries), we came to a small wooden bridge situated over a frozen stream. Eric fumbled in his pocket for his grandmother&apos;s  ring and dropped to one knee (with all the elagance of a drunk giraffe thanks to the snowshoes). <br><br>
-She said YES! and soon after, we hurried back to the campsite to break down camp as quickly as possible and get out of the park and into a hotel with a nice warm fireplace and a hot dinner. It was a a magical and memorbale trip never to be forgotten.<br>
+        Sydnee and  Eric have always been very outdoorsy. Their first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, he told me that he wanted to go back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
+        The two of us have always been very outdoorsy. Our first date was at Hamilton Pool in Austin, Tx, and we try to take at least one big hiking/camping trip every year. This year, we went back to the site of our first big adventure together, Rocky Mountain National Park. We planned an intense week of hiking, climbing, and snow-shoeing that was sure to be a great time. On the third day of our trip, a blizzard named Helena blew in and threatened to cancel our plans for the following day. <br><br>
+        Against her better judgement, Sydnee relented to Eric&apos;s insistence that we go ahead with our plans to snow-shoe the next day. We got up bright and early after a night of trying to sleep through a nearly constant snow storm and hit the trail (which by this point, was covered in nearly three feet of snow). Trekking through thick snow (which was still coming down in flurries), we came to a small wooden bridge situated over a frozen stream. Eric fumbled in his pocket for his grandmother&apos;s  ring and dropped to one knee (with all the elagance of a drunk giraffe thanks to the snowshoes). <br><br>
+        She said YES! and soon after, we hurried back to the campsite to break down camp as quickly as possible and get out of the park and into a hotel with a nice warm fireplace and a hot dinner. It was a a magical and memorbale trip never to be forgotten.<br>
       </div>
 
       <div id="OurWedding" class="inner jumptarget">
@@ -99,30 +99,31 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           <center>
 
           <div class="col-lg-6 col-lg-offset-3">
-          <div class="carousel slide" id="austinCarousel" style="width: 400px; margin 0 auto">
-            <div class="carousel-inner">
-              <div class="item active">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/cSYor5Q.png" class="img-responsive"></a></div>
-              </div>
-              <div class="item">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/oLb8X8T.png" class="img-responsive"></a></div>
-              </div>
-              <div class="item">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
-              </div>
-              <div class="item">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/d9pMl5K.png" class="img-responsive"></a></div>
-              </div>
-              <div class="item">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/DhLVtxL.jpg" class="img-responsive"></a></div>
-              </div>
-              <div class="item">
-                <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
-              </div>
+            <div class="carousel slide" id="austinCarousel" style="width: 400px; margin 0 auto">
+              <div class="carousel-inner">
+                <div class="item active">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/cSYor5Q.png" class="img-responsive"></a></div>
+                </div>
+                <div class="item">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/oLb8X8T.png" class="img-responsive"></a></div>
+                </div>
+                <div class="item">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
+                </div>
+                <div class="item">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/d9pMl5K.png" class="img-responsive"></a></div>
+                </div>
+                <div class="item">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/DhLVtxL.jpg" class="img-responsive"></a></div>
+                </div>
+                <div class="item">
+                  <div class="col-md-4"><a href="#"><img src="http://i.imgur.com/j1pFxtK.png" class="img-responsive"></a></div>
+                </div>
 
-            <a class="left carousel-control" href="#austinCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
-            <a class="right carousel-control" href="#austinCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
-          </div>
+                <a class="left carousel-control" href="#austinCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                <a class="right carousel-control" href="#austinCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+              </div>
+            </div>
           </div>
 
           </center>
@@ -150,7 +151,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
             <span class="client"><?php echo $config['addeventclient'] ?></span>
           </div><br><br>
 
-	</div><!--OurWeddingGist-->
+	    </div><!--OurWeddingGist-->
 
 	<div id="OurWeddingDeets">
 	  <h4>The Day Of Schedule</h4>
@@ -571,7 +572,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
     <script src="./lib/js/multi-step-modal.js"></script>
     <script>
       //A script for animating the anchor links
-      $('a[href*=\\#]').on('click', function(event) { 
+  /*    $('a[href*=\\#]').on('click', function(event) { 
         event.preventDefault();
         $('html,body').animate({ scrollTop:$(this.hash).offset().top }, 400);
       });
@@ -603,7 +604,7 @@ She said YES! and soon after, we hurried back to the campsite to break down camp
           });
           return false;
         });
-      });
+        }); */
     </script>
   </body>
 </html>
