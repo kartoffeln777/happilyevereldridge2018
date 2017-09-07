@@ -4,15 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="A website for celebrating Alison and Michael's big day">
-    <meta name="author" content="Michael Jones">
+    <meta name="description" content="A website for celebrating Eric and Sydnee&apos;s big day">
+    <meta name="author" content="Eric Eldridge">
     <link rel="icon" href="../favicon.ico">
-    <title>Pictures</title>
+    <title>RSVP</title>
 
     <link href="../lib/css/bootstrap.min.css" rel="stylesheet">
     <link href="../lib/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="../site.css" rel="stylesheet">
-    <link href="../rsvpsimple.css" rel="stylesheet">
+    <link href="rsvp.css" rel="stylesheet">
+<!--<link href="../rsvpsimple.css" rel="stylesheet">  -->
 
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -55,38 +56,36 @@
 
     <div class="masthead">
       <img class="header-image" src="http://i.imgur.com/Pw49m3i.jpg" >
-      <h1>RSVP</h1>
+<!--  <h1>RSVP</h1> -->
     </div>
 
     <div class="top">
     </div>
-    <div class="form">
-      <div class ="info">
-        <h1>RSVP</h1>
-        <h2>for the wedding of</h2>
-        <h1>Eric Eldridge and Sydnee Spruiell</h1>
-        <p class= "line">________________________________________</p>
-        <h2>The Details</h2>
-        <p>Saturday, Mar 17, 2018</p>
-        <p>5:00 PM</p>
-        <br>
-        <h2>Ceremony & Reception</h2>
-        <p>The Springs in the Woodlands</p>
-        <p>33301 Old Hempstead Rd, Magnolia, TX 77355</p>
-        <p class= "line">________________________________________</p>
-        <form action="/action_page.php" method="get">
-          <div class="item" style="display: inline">
-            <input type="text" placeholder="Name">
-            <input type="number" placeholder="# of Guests">
-            <input type="checkbox" name="babysit" value="needed"> I will need a babysitter
-           </div>
-        </form></div>
-      <button class ="accept">Accept</button>
-      <button class ="regret" style="float:right">Decline</button>
+    <div class="form" >
+      <form action="rsvp_confirm.php" method="post">
+        <div class ="info">
+          <h1>RSVP</h1>
+          <h2>for the wedding of</h2>
+          <h1>Eric & Sydnee</h1>
+          <p class= "line">________________________________________</p>
+          <h2>The Details</h2>
+          <p>Saturday, Mar 17, 2018</p>
+          <p>5:00 PM</p>
+          <br>
+          <h2>Ceremony & Reception</h2>
+          <p>The Springs in the Woodlands</p>
+               <p>33301 Old Hempstead Rd, Magnolia, TX 77355</p>
+               <p class= "line">________________________________________</p>
+          <input type="text" placeholder="Name">
+          <input type="number" placeholder="# of Guests">
+          <input type="hidden" name="babysitter" value="0">
+          <input type="checkbox" id="babysitter_needed" name="babysitter" value="1">
+          <label for="babysitter_needed" style="margin: inline" !important>I will need a babysitter</label>
+        </div>
+        <input type="submit" value="Accept">
+        <button class ="regret">Regret</button>
+      </form>
     </div>
-
-
-
 
 
 

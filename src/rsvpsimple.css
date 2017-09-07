@@ -50,7 +50,7 @@ p.line {
   color: #666;
   padding: 6px;
   margin: 25px auto 20px;
-  display: block;
+ <!-- display: block; -->
   width: 75%;  
 }
 
