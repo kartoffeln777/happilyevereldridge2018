@@ -88,9 +88,9 @@
          Wayfair is an e-commerce company with an emphasis on home goods, home furnishings and decor items. You can find our Wayfair registry page <a href="https://www.wayfair.com/registry/wedding/dc7ad483-d5a2-4bf0-a4aa-40148ee21ae6?manage=1" target="_blank">here</a>.
       </div>
     
-      <div id="crateAndBarrell" class="inner jumptarget">
-       <h3>Crate &amp; Barrell</h3>
-Crate &amp; Barrell is a chain of stores specializing in housewares, furniture, and home accessories. You can find our Crate &amp; Barrell registry page <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank">here</a>.
+      <div id="crateAndBarrel" class="inner jumptarget">
+       <h3>Crate &amp; Barrel</h3>
+Crate &amp; Barrel is a chain of stores specializing in housewares, furniture, and home accessories. You can find our Crate &amp; Barrel registry page <a href="https://www.crateandbarrel.com/gift-registry/sydnee-spruiell-and-eric-eldridge/r5632953" target="_blank">here</a>.
      </div>
      <div id="houseOfTraditions" class="inner jumptarget">
        <h3>House of Traditions</h3>
